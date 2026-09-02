@@ -1,0 +1,97 @@
+import { Investigation } from '../types'
+
+export const investigations: Investigation[] = [
+  {
+    id: 'inv-01',
+    codename: 'Emerging Pangolin Network',
+    riskScore: 89,
+    previousRiskScore: 82,
+    status: 'ACTIVE',
+    lastUpdated: '2 hours ago',
+    threatSummary:
+      'Multiple incidents show recurring entity and route relationships across a two-country corridor. Trade, environmental, behavioural, and linguistic signals overlap around the Northern Crossing and Kutai Basin.',
+    primaryCommodity: 'Pangolin scale',
+    originCountry: 'Indonesia',
+    incidentIds: ['inc-01', 'inc-02', 'inc-03', 'inc-04', 'inc-09', 'inc-10', 'inc-11', 'inc-12', 'inc-13', 'inc-14'],
+    entityIds: ['ent-01', 'ent-02', 'ent-03', 'ent-04'],
+    evidenceIds: ['ev-01', 'ev-02', 'ev-03', 'ev-04', 'ev-09', 'ev-10', 'ev-11', 'ev-12', 'ev-13'],
+    routeIds: ['route-01', 'route-02', 'route-03'],
+    timeline: [
+      { id: 'tl-01', date: '2026-01-14', title: 'Wildlife seizure recorded', description: 'Field patrol intercepted a concealed shipment of scale fragments near the Kutai reserve boundary.', evidenceId: 'ev-01' },
+      { id: 'tl-02', date: '2026-02-03', title: 'Related shipment identified', description: 'A manifest discrepancy at Port Serang was linked to the same exporter identifiers.', evidenceId: 'ev-02' },
+      { id: 'tl-03', date: '2026-02-21', title: 'Transit location overlap detected', description: 'A vehicle stop at Northern Crossing recorded transit overlap with the established corridor.', evidenceId: 'ev-03' },
+      { id: 'tl-04', date: '2026-03-02', title: 'Environmental signal detected', description: 'Satellite change detection flagged forest disturbance 2.4km from the corridor.', evidenceId: 'ev-12' },
+      { id: 'tl-05', date: '2026-03-05', title: 'Related seizure recorded', description: 'Market monitoring at Kuching observed a vendor offering matching product characteristics.', evidenceId: 'ev-04' },
+      { id: 'tl-06', date: '2026-03-18', title: 'Possible route displacement detected', description: 'Freight re-routing observed after increased checkpoint enforcement.', evidenceId: 'ev-02' },
+      { id: 'tl-07', date: '2026-03-19', title: 'Linguistic signal correlated', description: 'SignalWatch flagged synthetic terminology potentially referencing the Northern Crossing.', evidenceId: 'ev-13' },
+    ],
+    riskFactors: [
+      { label: 'Repeated route association', points: 23 },
+      { label: 'Related seizure cluster', points: 19 },
+      { label: 'Entity overlap', points: 17 },
+      { label: 'Environmental signal', points: 14 },
+      { label: 'Linguistic signal', points: 11 },
+      { label: 'Temporal clustering', points: 5 },
+    ],
+  },
+  {
+    id: 'inv-02',
+    codename: 'Repeated Transit Corridor Activity',
+    riskScore: 74,
+    previousRiskScore: 71,
+    status: 'ACTIVE',
+    lastUpdated: '5 hours ago',
+    threatSummary:
+      'Six related incidents on the Mae Sot–Mong La–Kunming corridor share recurring entities and freight identifiers, suggesting a possible ivory and mixed-product transit network.',
+    primaryCommodity: 'Ivory',
+    originCountry: 'Thailand',
+    incidentIds: ['inc-05', 'inc-06', 'inc-07', 'inc-08', 'inc-15'],
+    entityIds: ['ent-05', 'ent-06', 'ent-07'],
+    evidenceIds: ['ev-05', 'ev-06', 'ev-07', 'ev-08'],
+    routeIds: ['route-04', 'route-05', 'route-06'],
+    timeline: [
+      { id: 'tl-08', date: '2026-01-22', title: 'Ivory fragments recovered', description: 'Cargo inspection at Sattahip recovered fragments consistent with ivory carving waste.', evidenceId: 'ev-05' },
+      { id: 'tl-09', date: '2026-02-11', title: 'Repeat transit detected', description: 'Container identifiers matched a prior detection on the Mae Sot corridor.', evidenceId: 'ev-06' },
+      { id: 'tl-10', date: '2026-03-18', title: 'Interdiction with entity overlap', description: 'Joint task force interdiction at Mong La cross-referenced entities from earlier cycles.', evidenceId: 'ev-07' },
+      { id: 'tl-11', date: '2026-03-27', title: 'Depot anomaly flagged', description: 'Inventory reconciliation at Kunming depot showed unexplained volume.', evidenceId: 'ev-08' },
+    ],
+    riskFactors: [
+      { label: 'Repeated freight identifiers', points: 21 },
+      { label: 'Entity recurrence', points: 18 },
+      { label: 'Multi-agency corroboration', points: 16 },
+      { label: 'Depot anomaly', points: 12 },
+      { label: 'Temporal clustering', points: 7 },
+    ],
+  },
+  {
+    id: 'inv-03',
+    codename: 'Selous–Entebbe Ivory Network',
+    riskScore: 80,
+    previousRiskScore: 75,
+    status: 'ACTIVE',
+    lastUpdated: '11 hours ago',
+    threatSummary:
+      'Cargo manifest identifiers link a Selous perimeter seizure to a subsequent Entebbe cargo hub incident, with a possible shared freight forwarder across two terminals.',
+    primaryCommodity: 'Ivory',
+    originCountry: 'Tanzania',
+    incidentIds: ['inc-18', 'inc-19', 'inc-20', 'inc-21', 'inc-22'],
+    entityIds: ['ent-09', 'ent-10', 'ent-11'],
+    evidenceIds: ['ev-15', 'ev-16', 'ev-17'],
+    routeIds: ['route-08', 'route-09'],
+    timeline: [
+      { id: 'tl-12', date: '2026-01-09', title: 'Ivory seizure recorded', description: 'Anti-poaching unit recovered tusks near the Selous reserve access corridor.', evidenceId: 'ev-15' },
+      { id: 'tl-13', date: '2026-02-14', title: 'Manifest overlap identified', description: 'Cargo manifest entity overlap found between Entebbe and the earlier Selous seizure.', evidenceId: 'ev-16' },
+      { id: 'tl-14', date: '2026-03-08', title: 'Route displacement detected', description: 'Corridor activity shifted following a checkpoint enforcement increase.', evidenceId: 'ev-15' },
+      { id: 'tl-15', date: '2026-03-11', title: 'Environmental anomaly detected', description: 'Vegetation disturbance consistent with off-track vehicle movement near the buffer zone.', evidenceId: 'ev-17' },
+    ],
+    riskFactors: [
+      { label: 'Manifest entity overlap', points: 24 },
+      { label: 'Repeat corridor seizure', points: 20 },
+      { label: 'Route displacement', points: 15 },
+      { label: 'Environmental signal', points: 12 },
+      { label: 'Temporal clustering', points: 9 },
+    ],
+  },
+]
+
+export const investigationById = (id: string) => investigations.find((i) => i.id === id)

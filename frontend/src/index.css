@@ -1,0 +1,151 @@
+/* Sansation — headings (H1, brand, hero numbers) */
+@import url('https://fonts.cdnfonts.com/css/sansation');
+/* National Park — H3 and below section headers */
+@import url('https://fonts.cdnfonts.com/css/national-park');
+/* Quicksand — UI labels, badges, metadata */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  border-color: theme('colors.base.700');
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: #EFF6F1;
+  color: theme('colors.ink.100');
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 1rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #A8D5B5;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #7EC49A;
+}
+
+.leaflet-container {
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  background: #E8EEF0;
+}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #FFFFFF;
+  color: #13181A;
+  border-radius: 14px;
+  box-shadow: 0 4px 20px rgba(20, 148, 71, 0.15);
+}
+.leaflet-control-attribution {
+  font-size: 10px;
+  background: rgba(255,255,255,0.85) !important;
+  border-radius: 8px !important;
+}
+.leaflet-control-zoom a {
+  border-radius: 8px !important;
+  border-color: #C8ECD4 !important;
+  color: #0F7A3A !important;
+}
+.leaflet-control-zoom {
+  border-radius: 10px !important;
+  border: 1px solid #C8ECD4 !important;
+  box-shadow: 0 2px 8px rgba(20, 148, 71, 0.12) !important;
+  overflow: hidden;
+}
+
+/* Typography helpers */
+
+/* Sansation — H1, brand titles, hero scores */
+.font-display {
+  font-family: 'Sansation', ui-sans-serif, system-ui, sans-serif;
+}
+
+/* National Park — H3 labels, section headers, panel titles */
+.font-heading {
+  font-family: 'National Park', ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Quicksand — UI metadata, badges, small labels, corridor names */
+.font-ui {
+  font-family: 'Quicksand', ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-mono-intel {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+}
+
+.label-meta {
+  @apply text-[10px] font-bold uppercase tracking-[0.12em] text-ink-500;
+  font-family: 'Quicksand', ui-sans-serif, system-ui, sans-serif;
+}
+
+.panel {
+  @apply bg-white border border-slate-200/80 rounded-2xl shadow-sm;
+}
+
+.panel-glass {
+  @apply bg-white/90 border border-slate-200/70 rounded-2xl shadow-sm backdrop-blur-sm;
+}
+
+.focus-ring {
+  @apply outline-none focus-visible:ring-2 focus-visible:ring-emerald-400 focus-visible:ring-offset-2;
+}
+
+/* Intelligence signal pulse animation */
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2.2); opacity: 0; }
+}
+
+.signal-pulse::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: currentColor;
+  animation: pulse-ring 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeUp {
+  animation: fadeUp 0.3s ease-out both;
+}
+
+@keyframes slide-in-right {
+  from { opacity: 0; transform: translateX(12px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.animate-slide-in-right {
+  animation: slide-in-right 0.35s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

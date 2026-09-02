@@ -1,0 +1,401 @@
+message_id,sender_actor,receiver_actor,timestamp,chat_group,message_text,contains_slang,linked_route
+MSG-E19DC88F,ACT-C8A0BC45,ACT-001930AF,2024-01-06 03:18:26,LOGISTICS_GRP_B,Delivery confirmed. Despite sound receive let newspaper true.,False,
+MSG-69092485,ACT-DC4BFFE4,ACT-EA441661,2024-01-22 22:14:30,NET_CHANNEL_3,Truck is loaded. Trial receive region however dream focus executive.,False,
+MSG-4BAFD71C,ACT-45C722DA,ACT-DD3ED62E,2024-01-23 01:31:35,NET_CHANNEL_3,"Extra blue bird available, contact me privately.",True,RTE-3623DB4A
+MSG-6507A5DD,ACT-157A0D7D,ACT-DUP-0002,2024-02-05 00:40:28,NET_CHANNEL_4,"Payment received, proceed. Fine fine effort well.",False,
+MSG-2FA8B698,ACT-F70E04EC,ACT-9150A102,2024-02-08 12:26:48,LOGISTICS_GRP_F,Delivery confirmed. Herself our far measure involve soldier.,False,
+MSG-141EE530,ACT-5535B8FF,ACT-F8FB00AA,2024-02-10 07:56:23,LOGISTICS_GRP_F,Send the updated manifest. Occur college herself catch feeling.,False,
+MSG-D9986928,ACT-C48421F9,ACT-DBBBE5BC,2024-02-11 16:40:05,LOGISTICS_GRP_C,When does the shipment arrive? However score job least.,False,
+MSG-76CE072E,ACT-5BCEA423,ACT-DUP-0001,2024-02-14 20:31:10,NET_CHANNEL_2,"Payment received, proceed. Many pattern leader career according how success here.",False,
+MSG-E595A080,ACT-0BE618C7,ACT-157A0D7D,2024-02-15 00:55:32,NET_CHANNEL_4,Confirm brown parcel delivery before sunrise.,True,RTE-9EC78713
+MSG-58A54E03,ACT-EA441661,ACT-DD3ED62E,2024-02-18 10:39:05,NET_CHANNEL_3,"Extra jungle fruit available, contact me privately.",True,RTE-BEF74FCD
+MSG-0C8B2EFE,ACT-1B6D6C5C,ACT-8A3A138F,2024-02-19 02:04:41,LOGISTICS_GRP_D,We need to move faster. Improve important offer by first avoid letter.,False,
+MSG-A90E7A48,ACT-EA441661,ACT-45C722DA,2024-02-20 09:09:21,NET_CHANNEL_3,"Extra night delivery available, contact me privately.",True,RTE-837DA83F
+MSG-230BF637,ACT-480A6546,ACT-EBD0B65D,2024-02-21 01:06:07,LOGISTICS_GRP_C,The weather looks good today. Story million fight class.,False,
+MSG-1BC14648,ACT-EBD0B65D,ACT-157A0D7D,2024-02-21 23:32:56,NET_CHANNEL_4,"Waiting for the night delivery handover, be patient.",True,RTE-15641305
+MSG-49FBDBE7,ACT-0DD6E664,ACT-93684B5D,2024-02-22 15:12:02,LOGISTICS_GRP_C,Do not contact me on this number again. Hear through large true help bag.,False,
+MSG-E266DF37,ACT-8F24BB27,ACT-3EC2CAB2,2024-02-24 03:42:30,LOGISTICS_GRP_C,"Payment received, proceed. Pressure let kind degree list top somebody college.",False,
+MSG-7302A907,ACT-A7290540,ACT-A3B509D1,2024-02-25 17:02:29,NET_CHANNEL_1,Customs officer confirmed. Approach join stuff future shoulder western.,False,
+MSG-C9B71FAE,ACT-DC4BFFE4,ACT-8A3A138F,2024-02-27 13:03:04,LOGISTICS_GRP_C,All clear from my end. Right subject try wonder move trade.,False,
+MSG-C0DBF436,ACT-74B10513,ACT-DB3AAE2B,2024-02-28 18:36:52,LOGISTICS_GRP_C,Delivery confirmed. Pull different current agency each.,False,
+MSG-8AD137DC,ACT-A3B509D1,ACT-DUP-0004,2024-03-03 06:19:29,LOGISTICS_GRP_A,Wait for my signal. Assume every plan nature.,False,
+MSG-6E8BBF31,ACT-DUP-0004,ACT-A9F1176D,2024-03-08 06:59:34,NET_CHANNEL_5,Documents are ready. Whether between several personal enough ball dream necessary.,False,
+MSG-2F2004D0,ACT-5BCEA423,ACT-F8FB00AA,2024-03-09 02:44:04,LOGISTICS_GRP_E,Use the secondary channel. Water cut fire who why fact reason make.,False,
+MSG-D875B71F,ACT-FD05814E,ACT-516B220E,2024-03-14 12:10:40,LOGISTICS_GRP_C,Wait for my signal. Allow have kitchen wear talk.,False,
+MSG-E4D84F87,ACT-DUP-0004,ACT-6890BAC6,2024-03-16 23:49:30,NET_CHANNEL_5,The ivory tea is ready for pickup at the usual spot.,True,RTE-657F736F
+MSG-A5645993,ACT-45C722DA,ACT-EA441661,2024-03-17 04:01:18,NET_CHANNEL_3,How many jungle fruit units are we moving this week?,True,RTE-844D2BD8
+MSG-9665FA9D,ACT-480A6546,ACT-2F205955,2024-03-25 09:55:04,NET_CHANNEL_2,We need to move faster. Ball always it focus economy before.,False,
+MSG-57545103,ACT-DUP-0005,ACT-F20CA79B,2024-03-26 22:45:00,LOGISTICS_GRP_G,"Payment received, proceed. Young however many.",False,
+MSG-F034AE83,ACT-4C5661F3,ACT-A19B3B13,2024-03-27 06:29:44,LOGISTICS_GRP_H,"Payment received, proceed. Conference should agree road wall decide something.",False,
+MSG-BE1B8B72,ACT-2F205955,ACT-6890BAC6,2024-04-08 05:04:58,LOGISTICS_GRP_E,Documents are ready. Black whether player stock religious itself safe.,False,
+MSG-02AD1A62,ACT-3EC2CAB2,ACT-2F205955,2024-04-10 12:34:44,LOGISTICS_GRP_B,The contact has been verified. Avoid point guy song.,False,
+MSG-09017C3D,ACT-9150A102,ACT-0BE618C7,2024-04-11 12:59:28,NET_CHANNEL_4,Don't mention the blue bird on open channels.,True,RTE-9EC78713
+MSG-8067AAD9,ACT-DUP-0004,ACT-DUP-0007,2024-04-12 20:36:03,NET_CHANNEL_5,The after rain is ready for pickup at the usual spot.,True,RTE-CB7E8B4C
+MSG-6B5C41C8,ACT-5BCEA423,ACT-480A6546,2024-04-15 09:06:42,NET_CHANNEL_2,Client confirmed. after rain route is clear.,True,RTE-D769322C
+MSG-50982C68,ACT-6F081E40,ACT-6890BAC6,2024-04-15 13:25:57,NET_CHANNEL_5,Confirm jungle fruit delivery before sunrise.,True,RTE-F51C2F2E
+MSG-78236117,ACT-5535B8FF,ACT-A7290540,2024-04-15 23:44:57,NET_CHANNEL_1,Customs officer confirmed. Really your customer career available.,False,
+MSG-984B76D6,ACT-5BCEA423,ACT-2F205955,2024-04-18 03:09:38,NET_CHANNEL_2,"Extra blue bird available, contact me privately.",True,RTE-4424DBF1
+MSG-6D306F97,ACT-DC4BFFE4,ACT-516B220E,2024-04-21 21:36:09,NET_CHANNEL_3,Confirm the meeting time. Affect much yourself glass practice sit prepare.,False,
+MSG-947E36B2,ACT-9150A102,ACT-0BE618C7,2024-05-04 12:58:09,NET_CHANNEL_4,Delivery confirmed. Position final kid often run bed far section.,False,
+MSG-6B0D5160,ACT-516B220E,ACT-C1CE62FB,2024-05-07 18:25:32,LOGISTICS_GRP_G,All clear from my end. Though firm financial huge spring.,False,
+MSG-ABE95713,ACT-4C5661F3,ACT-76F7BDE8,2024-05-11 02:37:15,LOGISTICS_GRP_A,We need to move faster. Skill five indicate chance heavy senior.,False,
+MSG-1623E140,ACT-157A0D7D,ACT-EBD0B65D,2024-05-13 04:34:10,NET_CHANNEL_4,When does the shipment arrive? Model stuff avoid stand.,False,
+MSG-A9924550,ACT-DC4BFFE4,ACT-516B220E,2024-05-14 07:59:48,NET_CHANNEL_3,We need to move faster. Thing machine ahead picture son report.,False,
+MSG-C3CDCDBB,ACT-8F24BB27,ACT-74B10513,2024-05-18 08:26:40,LOGISTICS_GRP_B,The contact has been verified. Decade trade field training deep couple scientist.,False,
+MSG-1008D5BC,ACT-5535B8FF,ACT-A3B509D1,2024-05-18 11:25:34,NET_CHANNEL_1,Be at the location by midnight. Drop image new drive.,False,
+MSG-ED1034D1,ACT-2BB3216C,ACT-DUP-0009,2024-05-20 04:43:07,LOGISTICS_GRP_H,Everything is on schedule. So nothing serious compare task today.,False,
+MSG-E174EDC2,ACT-95A4317F,ACT-A7290540,2024-05-24 08:09:57,NET_CHANNEL_1,Confirm grey stone delivery before sunrise.,True,RTE-68716855
+MSG-F6ADD402,ACT-DC4BFFE4,ACT-EA441661,2024-06-02 07:16:12,NET_CHANNEL_3,Call me when you land. Drop century investment pass drive indicate professor.,False,
+MSG-53C50CBC,ACT-EBD0B65D,ACT-0BE618C7,2024-06-02 22:55:39,NET_CHANNEL_4,Be at the location by midnight. Month book explain feeling answer information soldier lead.,False,
+MSG-44D5F88A,ACT-1B6D6C5C,ACT-EA441661,2024-06-08 02:24:52,LOGISTICS_GRP_B,Call me when you land. Appear piece free form newspaper hit edge surface.,False,
+MSG-82E84AA1,ACT-9DC49715,ACT-28E1066F,2024-06-14 04:18:52,LOGISTICS_GRP_C,Documents are ready. Blue agent find quality when.,False,
+MSG-138951A1,ACT-45C722DA,ACT-EA441661,2024-06-18 21:25:11,NET_CHANNEL_3,The weather looks good today. Customer skill theory hand.,False,
+MSG-100E8BF9,ACT-EBD0B65D,ACT-DUP-0002,2024-06-21 04:36:15,NET_CHANNEL_4,Need three more ivory tea for the next run.,True,RTE-E5F5E120
+MSG-E085EAC5,ACT-480A6546,ACT-DUP-0008,2024-06-23 17:57:50,LOGISTICS_GRP_C,Wait for my signal. Bank child Republican plant.,False,
+MSG-D63956F8,ACT-9150A102,ACT-DUP-0002,2024-06-25 09:46:14,NET_CHANNEL_4,Wait for my signal. Case past only drug prove.,False,
+MSG-88F7094E,ACT-DUP-0004,ACT-6F081E40,2024-06-25 20:08:31,NET_CHANNEL_5,Don't mention the river crossing on open channels.,True,RTE-15E430E6
+MSG-E21EA3D9,ACT-4A810E54,ACT-4B53C901,2024-07-01 13:00:32,LOGISTICS_GRP_D,Truck is loaded. Ever window network recently.,False,
+MSG-FD872C69,ACT-0BE618C7,ACT-DUP-0008,2024-07-03 02:27:38,LOGISTICS_GRP_B,Everything is on schedule. Move grow end mention market better wonder.,False,
+MSG-D11B7AE1,ACT-3B25DA0A,ACT-DUP-0002,2024-07-03 17:44:29,LOGISTICS_GRP_E,Do not contact me on this number again. Watch develop later glass.,False,
+MSG-B3A688A7,ACT-6AB623B4,ACT-16E31CC7,2024-07-04 09:51:51,LOGISTICS_GRP_G,Do not contact me on this number again. Because such during open model how.,False,
+MSG-7CE4B86C,ACT-2F205955,ACT-A19B3B13,2024-07-05 09:04:15,NET_CHANNEL_2,How many night delivery units are we moving this week?,True,RTE-05837773
+MSG-ADDB3A7C,ACT-72D14581,ACT-A19B3B13,2024-07-06 15:50:28,LOGISTICS_GRP_A,Be at the location by midnight. Sure outside building worker site.,False,
+MSG-F66F371B,ACT-EA441661,ACT-D2CB78D6,2024-07-07 17:28:34,LOGISTICS_GRP_C,When does the shipment arrive? Company appear score.,False,
+MSG-534505D2,ACT-DD3ED62E,ACT-EA441661,2024-07-08 19:34:32,NET_CHANNEL_3,Do not contact me on this number again. Whether ago control military trial.,False,
+MSG-6DFF7377,ACT-A3B509D1,ACT-0DD6E664,2024-07-11 00:42:58,LOGISTICS_GRP_B,Port clearance obtained. Card good full poor store range.,False,
+MSG-CB9CC69D,ACT-001930AF,ACT-9150A102,2024-07-13 17:10:11,LOGISTICS_GRP_G,Call me when you land. Doctor dream whole six tough create question.,False,
+MSG-FCF2221B,ACT-6890BAC6,ACT-DUP-0007,2024-07-16 14:47:54,NET_CHANNEL_5,Confirm the meeting time. Impact fly bit claim in many.,False,
+MSG-4D5B9579,ACT-5535B8FF,ACT-A7290540,2024-07-18 03:34:12,NET_CHANNEL_1,The contact has been verified. Father authority art keep machine daughter.,False,
+MSG-510162B3,ACT-F134FC9B,ACT-DBBBE5BC,2024-07-18 22:49:24,LOGISTICS_GRP_G,Wait for my signal. Speak close join improve put down know expect.,False,
+MSG-691F0451,ACT-DUP-0007,ACT-ADF3339E,2024-07-21 06:10:58,LOGISTICS_GRP_G,We need to move faster. End various often.,False,
+MSG-9FDDCDBB,ACT-DUP-0002,ACT-9150A102,2024-07-30 22:30:09,NET_CHANNEL_4,When does the shipment arrive? Fly position traditional become off.,False,
+MSG-0D5DBDEA,ACT-3B25DA0A,ACT-4C5661F3,2024-07-31 01:08:41,LOGISTICS_GRP_G,Documents are ready. Spend nearly lawyer fire follow wife.,False,
+MSG-B05429E2,ACT-C8A0BC45,ACT-A7290540,2024-08-03 00:08:32,LOGISTICS_GRP_F,All clear from my end. Together let explain.,False,
+MSG-E7507B95,ACT-DUP-0001,ACT-2F205955,2024-08-04 00:51:47,NET_CHANNEL_2,The forest gift deal closes after rain.,True,RTE-857F6451
+MSG-DDFB3886,ACT-F0092B27,ACT-72D14581,2024-08-06 08:27:44,LOGISTICS_GRP_F,Everything is on schedule. Lawyer political modern threat care.,False,
+MSG-2F1515F6,ACT-2D0BDD94,ACT-95A4317F,2024-08-10 17:07:48,LOGISTICS_GRP_D,Delivery confirmed. Goal amount thank good your ever.,False,
+MSG-7FB68E03,ACT-2F205955,ACT-5BCEA423,2024-08-11 06:10:38,NET_CHANNEL_2,When does the shipment arrive? Mean common easy just.,False,
+MSG-B1E6531A,ACT-DD3ED62E,ACT-EA441661,2024-08-11 11:57:33,NET_CHANNEL_3,Coordinates sent separately. Inside wait quality total past.,False,
+MSG-EA84B916,ACT-5535B8FF,ACT-A7290540,2024-08-11 16:33:20,NET_CHANNEL_1,The grey stone deal closes after rain.,True,RTE-B4CA579B
+MSG-43912CEC,ACT-239810D5,ACT-93684B5D,2024-08-14 17:08:38,LOGISTICS_GRP_B,When does the shipment arrive? Either start whom politics make collection.,False,
+MSG-0CF518C9,ACT-DUP-0001,ACT-A19B3B13,2024-08-15 22:19:03,NET_CHANNEL_2,"Waiting for the ivory tea handover, be patient.",True,RTE-837DA83F
+MSG-78C6A6AC,ACT-0DD6E664,ACT-45C722DA,2024-08-17 19:45:36,LOGISTICS_GRP_F,The contact has been verified. Group small open.,False,
+MSG-153C0C4C,ACT-0BE618C7,ACT-9150A102,2024-08-19 23:04:48,NET_CHANNEL_4,Confirm after rain delivery before sunrise.,True,RTE-A842284A
+MSG-BDA73FD6,ACT-BA821236,ACT-239810D5,2024-09-02 12:22:02,LOGISTICS_GRP_G,When does the shipment arrive? Able late order fact.,False,
+MSG-27C4690C,ACT-F702EB53,ACT-0D3A69A7,2024-09-06 02:01:59,LOGISTICS_GRP_G,Do not contact me on this number again. Series without leg.,False,
+MSG-A2C17DA2,ACT-34C1CDB5,ACT-B49444A6,2024-09-08 14:31:52,LOGISTICS_GRP_G,"Payment received, proceed. Job worker break tonight couple and.",False,
+MSG-488C391E,ACT-5BCEA423,ACT-DUP-0001,2024-09-08 20:25:27,NET_CHANNEL_2,How many ivory tea units are we moving this week?,True,RTE-22651175
+MSG-B50BF406,ACT-DD3ED62E,ACT-516B220E,2024-09-11 10:32:47,LOGISTICS_GRP_H,We need to move faster. Go consider century price attorney scientist.,False,
+MSG-682190EB,ACT-4C5661F3,ACT-480A6546,2024-09-15 10:27:53,LOGISTICS_GRP_A,Use the secondary channel. Wonder happen top population.,False,
+MSG-B357D643,ACT-45C722DA,ACT-DD3ED62E,2024-09-17 05:09:25,NET_CHANNEL_3,Need three more night delivery for the next run.,True,RTE-15641305
+MSG-BF51B896,ACT-6890BAC6,ACT-A9F1176D,2024-09-18 01:23:23,NET_CHANNEL_5,The contact has been verified. Pattern try simple let stay.,False,
+MSG-43A15FC4,ACT-480A6546,ACT-B1A0AF66,2024-09-22 22:50:51,LOGISTICS_GRP_C,All clear from my end. Ten stay ability thank left approach.,False,
+MSG-E1C311FB,ACT-DUP-0004,ACT-6890BAC6,2024-09-25 21:05:36,NET_CHANNEL_5,"Extra blue bird available, contact me privately.",True,RTE-837DA83F
+MSG-DCBB8E52,ACT-1DF99FFB,ACT-6C2A62E9,2024-09-26 11:46:00,LOGISTICS_GRP_G,Be at the location by midnight. Personal interview many win.,False,
+MSG-3D2BA0AF,ACT-2F205955,ACT-5BCEA423,2024-09-28 20:56:53,NET_CHANNEL_2,The river crossing is ready for pickup at the usual spot.,True,RTE-3BE0D749
+MSG-3DB45C33,ACT-EBD0B65D,ACT-0BE618C7,2024-09-29 19:55:37,NET_CHANNEL_4,Don't mention the river crossing on open channels.,True,RTE-857F6451
+MSG-885E73AE,ACT-A3B509D1,ACT-95A4317F,2024-10-03 09:41:31,NET_CHANNEL_1,Port clearance obtained. Issue we TV perhaps professional by.,False,
+MSG-D608D807,ACT-516B220E,ACT-DC4BFFE4,2024-10-03 14:35:11,NET_CHANNEL_3,Delivery confirmed. Onto again share start office several compare.,False,
+MSG-A20F2B0B,ACT-DUP-0002,ACT-130BC3BE,2024-10-05 12:41:14,LOGISTICS_GRP_H,When does the shipment arrive? Risk bad own state.,False,
+MSG-4A60B3FE,ACT-5BCEA423,ACT-2F205955,2024-10-05 15:29:03,NET_CHANNEL_2,Customs officer confirmed. Face if whom commercial way least.,False,
+MSG-70ACF194,ACT-516B220E,ACT-DC4BFFE4,2024-10-07 21:03:18,NET_CHANNEL_3,The forest gift is ready for pickup at the usual spot.,True,RTE-C146AD8A
+MSG-990561DA,ACT-DD3ED62E,ACT-EA441661,2024-10-07 22:31:19,NET_CHANNEL_3,The contact has been verified. Never hospital like player wonder effect administration.,False,
+MSG-646C59CA,ACT-DC4BFFE4,ACT-45C722DA,2024-10-10 03:54:35,NET_CHANNEL_3,The weather looks good today. Huge couple business summer.,False,
+MSG-08C354B7,ACT-6F081E40,ACT-0E08ABDD,2024-10-14 07:16:36,LOGISTICS_GRP_H,The contact has been verified. Full realize power system system.,False,
+MSG-6CC0DC2E,ACT-DC4BFFE4,ACT-516B220E,2024-10-19 16:41:12,NET_CHANNEL_3,Coordinates sent separately. Their four old center glass whose recognize hot.,False,
+MSG-BCB0EDF6,ACT-024E3B6A,ACT-BF767554,2024-10-20 06:24:51,LOGISTICS_GRP_B,"Payment received, proceed. Fund cost reality happen something entire.",False,
+MSG-F1CFBD7F,ACT-99F0286C,ACT-BA821236,2024-10-20 11:26:47,LOGISTICS_GRP_D,Wait for my signal. Himself science so ready bad seat.,False,
+MSG-C906AB86,ACT-F20CA79B,ACT-40058B0F,2024-10-20 16:41:32,LOGISTICS_GRP_C,"Payment received, proceed. Happy see energy herself police he push.",False,
+MSG-F0309B9A,ACT-2D0BDD94,ACT-DD3ED62E,2024-10-21 07:44:54,LOGISTICS_GRP_C,Wait for my signal. Strategy hope show watch affect.,False,
+MSG-54F466C7,ACT-20D0E245,ACT-CA6408EB,2024-10-24 13:24:32,LOGISTICS_GRP_H,Send the updated manifest. Student matter movie place.,False,
+MSG-3DCB97A2,ACT-1DF99FFB,ACT-C48421F9,2024-10-28 14:37:12,LOGISTICS_GRP_A,The contact has been verified. Prepare trouble consider one play man before.,False,
+MSG-49FE516F,ACT-A19B3B13,ACT-F702EB53,2024-11-04 17:59:20,LOGISTICS_GRP_E,All clear from my end. Skin person product value interesting.,False,
+MSG-2D6D107B,ACT-DUP-0007,ACT-54264291,2024-11-09 16:33:41,LOGISTICS_GRP_H,Send the updated manifest. Door management guess occur.,False,
+MSG-E9071943,ACT-CA6408EB,ACT-28E1066F,2024-11-10 19:00:33,LOGISTICS_GRP_C,We need to move faster. Walk cup option store drug recent.,False,
+MSG-A30A9E72,ACT-A19B3B13,ACT-5BCEA423,2024-11-11 02:51:35,NET_CHANNEL_2,Need three more night delivery for the next run.,True,RTE-F51C2F2E
+MSG-A32FAE9B,ACT-5BCEA423,ACT-A19B3B13,2024-11-12 11:44:35,NET_CHANNEL_2,Send the updated manifest. First blood accept final growth especially.,False,
+MSG-3C1727E5,ACT-7494AE24,ACT-5535B8FF,2024-11-16 21:45:46,NET_CHANNEL_1,Client confirmed. river crossing route is clear.,True,RTE-FDDFEF85
+MSG-62AACA6D,ACT-95A4317F,ACT-5535B8FF,2024-11-18 01:51:13,NET_CHANNEL_1,The night delivery deal closes after rain.,True,RTE-C146AD8A
+MSG-0005C763,ACT-A3B509D1,ACT-95A4317F,2024-11-21 14:04:20,NET_CHANNEL_1,We need to move faster. Difficult mission late kind team wrong figure perform.,False,
+MSG-DF7730AA,ACT-4A810E54,ACT-525CFB31,2024-11-22 19:46:36,LOGISTICS_GRP_H,The weather looks good today. Expert conference career.,False,
+MSG-2E59F9A0,ACT-A19B3B13,ACT-61CA522C,2024-11-24 08:19:39,LOGISTICS_GRP_C,Confirm the meeting time. Site for exactly skill half usually customer.,False,
+MSG-0BB2C7F2,ACT-6F081E40,ACT-A19B3B13,2024-11-27 05:51:32,LOGISTICS_GRP_D,Confirm the meeting time. Mouth product attention positive actually information.,False,
+MSG-A2D4B415,ACT-EA441661,ACT-45C722DA,2024-11-28 14:32:54,NET_CHANNEL_3,Do not contact me on this number again. Reveal activity president realize artist brother fill if.,False,
+MSG-8D051484,ACT-9150A102,ACT-157A0D7D,2024-12-16 16:13:53,NET_CHANNEL_4,"Extra jungle fruit available, contact me privately.",True,RTE-657F736F
+MSG-F78C7B87,ACT-9150A102,ACT-BDA5B9AD,2024-12-16 21:10:18,LOGISTICS_GRP_E,Coordinates sent separately. Son join hundred keep.,False,
+MSG-AA2D1290,ACT-A9F1176D,ACT-DUP-0007,2024-12-16 21:38:22,NET_CHANNEL_5,Use the secondary channel. Class wrong school federal from stock.,False,
+MSG-60CDBFEA,ACT-0BE618C7,ACT-9150A102,2024-12-19 20:19:51,NET_CHANNEL_4,Documents are ready. Different chance enter central arrive society organization.,False,
+MSG-F086118E,ACT-A7290540,ACT-A3B509D1,2024-12-30 11:20:43,NET_CHANNEL_1,Send the updated manifest. Anything war ten industry.,False,
+MSG-7079CB60,ACT-F70E04EC,ACT-71CD333C,2024-12-31 12:36:48,LOGISTICS_GRP_C,Port clearance obtained. Explain executive teacher author do.,False,
+MSG-8E44D746,ACT-7494AE24,ACT-95A4317F,2025-01-02 18:40:42,NET_CHANNEL_1,Need three more forest gift for the next run.,True,RTE-378A7DE2
+MSG-C7DC14AC,ACT-0BE618C7,ACT-EBD0B65D,2025-01-04 03:56:42,NET_CHANNEL_4,Need three more grey stone for the next run.,True,RTE-B7844562
+MSG-76D34C6B,ACT-ADB13586,ACT-CAA8911E,2025-01-04 13:45:12,LOGISTICS_GRP_G,Documents are ready. Begin deep police wife anything four writer.,False,
+MSG-3269F53D,ACT-C48421F9,ACT-7187AEBF,2025-01-08 09:47:25,LOGISTICS_GRP_A,Wait for my signal. Side relate real major look.,False,
+MSG-895C6971,ACT-CAA8911E,ACT-DD3ED62E,2025-01-13 11:43:45,LOGISTICS_GRP_D,Be at the location by midnight. Environmental system store beautiful think during let particular.,False,
+MSG-8C84A9E4,ACT-DD3ED62E,ACT-EA441661,2025-01-17 09:24:51,NET_CHANNEL_3,Customs officer confirmed. Tell activity including single right nice.,False,
+MSG-7BB464EE,ACT-451B57E0,ACT-5BCEA423,2025-01-29 01:00:50,LOGISTICS_GRP_E,Truck is loaded. Truth modern drive people.,False,
+MSG-6002192E,ACT-45C722DA,ACT-EA441661,2025-01-31 15:54:40,NET_CHANNEL_3,The night delivery deal closes after rain.,True,RTE-674B55E3
+MSG-263A2824,ACT-EBD0B65D,ACT-157A0D7D,2025-02-07 08:49:40,NET_CHANNEL_4,"Extra night delivery available, contact me privately.",True,RTE-EF6F0110
+MSG-55BBA266,ACT-45C722DA,ACT-516B220E,2025-02-07 21:46:50,NET_CHANNEL_3,Everything is on schedule. Industry score choice increase between majority impact.,False,
+MSG-BD0EC09C,ACT-0137B6D6,ACT-024E3B6A,2025-02-15 21:41:55,LOGISTICS_GRP_D,Confirm the meeting time. Sound mind chance throw cause use.,False,
+MSG-8462E6F3,ACT-46D85523,ACT-898A30A1,2025-02-17 12:45:41,LOGISTICS_GRP_G,Send the updated manifest. Seven floor data fine animal ten scientist.,False,
+MSG-30ED8F2F,ACT-DUP-0001,ACT-2F205955,2025-02-18 16:02:56,NET_CHANNEL_2,Send the updated manifest. West source fact explain research get.,False,
+MSG-FEA56330,ACT-EA441661,ACT-BA821236,2025-02-27 13:53:15,LOGISTICS_GRP_A,The contact has been verified. Light place someone option.,False,
+MSG-1C1B9E69,ACT-9150A102,ACT-DUP-0002,2025-03-05 09:55:48,NET_CHANNEL_4,Confirm the meeting time. Light key continue anything wait.,False,
+MSG-A783240C,ACT-A9F1176D,ACT-DUP-0007,2025-03-06 12:43:37,NET_CHANNEL_5,Confirm the meeting time. Fast recognize against stop how account ten.,False,
+MSG-3F89B4C9,ACT-5535B8FF,ACT-A3B509D1,2025-03-06 21:18:50,NET_CHANNEL_1,Be at the location by midnight. Serve light past town.,False,
+MSG-7417DA29,ACT-DUP-0002,ACT-3FD962A7,2025-03-07 10:39:54,LOGISTICS_GRP_B,Wait for my signal. Reduce tree serious soon stay seven.,False,
+MSG-967A1F81,ACT-A7290540,ACT-5535B8FF,2025-03-07 14:57:14,NET_CHANNEL_1,"Extra ivory tea available, contact me privately.",True,RTE-83C30583
+MSG-4D3A86F2,ACT-9150A102,ACT-DUP-0002,2025-03-14 11:19:02,NET_CHANNEL_4,"Extra river crossing available, contact me privately.",True,RTE-A9A64DEE
+MSG-7556ABD6,ACT-EBD0B65D,ACT-DUP-0002,2025-03-15 13:47:00,NET_CHANNEL_4,Call me when you land. Far cultural discover now early nearly.,False,
+MSG-20E1079A,ACT-F70E04EC,ACT-A8B80500,2025-03-16 13:48:03,LOGISTICS_GRP_C,Port clearance obtained. Education send course ground sit tend forward.,False,
+MSG-BE629ECF,ACT-83FE0258,ACT-A647D8DE,2025-03-17 20:36:00,LOGISTICS_GRP_C,All clear from my end. Indicate police marriage phone face what lot.,False,
+MSG-080F1B08,ACT-516B220E,ACT-45C722DA,2025-03-21 04:00:22,NET_CHANNEL_3,Don't mention the forest gift on open channels.,True,RTE-50CAC933
+MSG-D0B8380F,ACT-DD3ED62E,ACT-516B220E,2025-03-24 02:58:24,NET_CHANNEL_3,How many ivory tea units are we moving this week?,True,RTE-22651175
+MSG-B128CACF,ACT-DUP-0002,ACT-EBD0B65D,2025-03-25 15:58:08,NET_CHANNEL_4,Coordinates sent separately. Area daughter war should share face build market.,False,
+MSG-4C8431F8,ACT-CFAB48FB,ACT-F73F1F34,2025-03-26 06:37:20,LOGISTICS_GRP_B,Send the updated manifest. Medical financial later arm story baby.,False,
+MSG-722A10F6,ACT-2F205955,ACT-DUP-0001,2025-03-27 06:10:47,NET_CHANNEL_2,Confirm brown parcel delivery before sunrise.,True,RTE-857F6451
+MSG-D4946837,ACT-EBD0B65D,ACT-0BE618C7,2025-03-30 21:35:41,NET_CHANNEL_4,Confirm ivory tea delivery before sunrise.,True,RTE-9EC78713
+MSG-31DF6CE5,ACT-EBD0B65D,ACT-0BE618C7,2025-03-31 10:08:56,NET_CHANNEL_4,We need to move faster. Sound life away senior difficult put.,False,
+MSG-62F55308,ACT-DUP-0002,ACT-9150A102,2025-04-04 11:51:59,NET_CHANNEL_4,Everything is on schedule. History professional star wonder manager already.,False,
+MSG-AEA46722,ACT-F8FB00AA,ACT-1D7B2448,2025-04-05 17:40:33,LOGISTICS_GRP_B,We need to move faster. Range explain dinner bed within set region beyond.,False,
+MSG-0A26919E,ACT-95A4317F,ACT-A3B509D1,2025-04-12 09:55:24,NET_CHANNEL_1,"Payment received, proceed. General as yes various attorney value.",False,
+MSG-526D1015,ACT-A19B3B13,ACT-ADB13586,2025-04-15 07:26:07,LOGISTICS_GRP_F,Use the secondary channel. Property remember nearly face feel church.,False,
+MSG-2C62990F,ACT-DUP-0001,ACT-5BCEA423,2025-04-16 01:16:34,NET_CHANNEL_2,Customs officer confirmed. Game have return since nothing be apply.,False,
+MSG-B22BA994,ACT-DD3ED62E,ACT-C48421F9,2025-04-17 09:00:40,LOGISTICS_GRP_D,Be at the location by midnight. Best thought career law.,False,
+MSG-4ADCC2AE,ACT-1B6D6C5C,ACT-2F205955,2025-04-18 07:27:09,LOGISTICS_GRP_D,When does the shipment arrive? Also from short capital heavy class story.,False,
+MSG-993B20C8,ACT-2D0BDD94,ACT-28E1066F,2025-04-18 15:57:37,LOGISTICS_GRP_E,Documents are ready. Spend value return couple.,False,
+MSG-3C3A380E,ACT-A7290540,ACT-5535B8FF,2025-04-22 10:21:58,NET_CHANNEL_1,Documents are ready. Record short cold parent security boy standard.,False,
+MSG-BFF74FB2,ACT-DUP-0002,ACT-130BC3BE,2025-04-23 17:27:45,LOGISTICS_GRP_A,When does the shipment arrive? Their bank land region back nor article natural.,False,
+MSG-8B8440EA,ACT-A9F1176D,ACT-DUP-0007,2025-04-25 10:21:55,NET_CHANNEL_5,The contact has been verified. Before member speak law message lead around.,False,
+MSG-A5476B3B,ACT-95A4317F,ACT-A3B509D1,2025-04-25 19:40:43,NET_CHANNEL_1,Need three more grey stone for the next run.,True,RTE-B4CA579B
+MSG-B34BFDD8,ACT-0BE618C7,ACT-157A0D7D,2025-04-27 09:47:29,NET_CHANNEL_4,Port clearance obtained. Difficult do beyond form line race case.,False,
+MSG-300306FA,ACT-DUP-0001,ACT-A19B3B13,2025-04-28 16:59:48,NET_CHANNEL_2,Client confirmed. river crossing route is clear.,True,RTE-6502C0EF
+MSG-746A4C41,ACT-DUP-0007,ACT-DUP-0004,2025-04-30 08:37:54,NET_CHANNEL_5,Client confirmed. long horn route is clear.,True,RTE-B4DC47C9
+MSG-672C8D4E,ACT-45C722DA,ACT-EA441661,2025-05-01 15:32:15,NET_CHANNEL_3,Confirm the meeting time. Not teach believe month amount deep.,False,
+MSG-848D5256,ACT-6F081E40,ACT-DUP-0007,2025-05-03 13:23:14,NET_CHANNEL_5,Need three more brown parcel for the next run.,True,RTE-378A7DE2
+MSG-E89E63EE,ACT-480A6546,ACT-2F205955,2025-05-03 15:37:00,NET_CHANNEL_2,Delivery confirmed. General there sister policy consider whom item.,False,
+MSG-ED6E9D72,ACT-FD05814E,ACT-A3B509D1,2025-05-06 15:36:01,LOGISTICS_GRP_C,Coordinates sent separately. Despite card check security paper.,False,
+MSG-D168027E,ACT-A7290540,ACT-001930AF,2025-05-12 19:45:25,LOGISTICS_GRP_G,The contact has been verified. Current his low down occur.,False,
+MSG-52E7CDAB,ACT-5535B8FF,ACT-95A4317F,2025-05-16 11:40:15,NET_CHANNEL_1,Confirm jungle fruit delivery before sunrise.,True,RTE-B7844562
+MSG-3CF9A19C,ACT-0BE618C7,ACT-EBD0B65D,2025-05-20 10:58:28,NET_CHANNEL_4,"Waiting for the blue bird handover, be patient.",True,RTE-367D804C
+MSG-023B654F,ACT-95A4317F,ACT-0DD6E664,2025-05-26 12:40:06,LOGISTICS_GRP_E,Be at the location by midnight. Middle beautiful protect continue cell food.,False,
+MSG-5FAA77A5,ACT-7494AE24,ACT-5535B8FF,2025-06-01 17:56:33,NET_CHANNEL_1,Confirm brown parcel delivery before sunrise.,True,RTE-C3C4BB2E
+MSG-C5BE1D96,ACT-6890BAC6,ACT-A9F1176D,2025-06-10 21:25:30,NET_CHANNEL_5,Port clearance obtained. Behavior here need.,False,
+MSG-12AAFFC9,ACT-DC4BFFE4,ACT-EA441661,2025-06-17 16:19:46,NET_CHANNEL_3,"Waiting for the brown parcel handover, be patient.",True,RTE-FDDFEF85
+MSG-42D90D14,ACT-61CA522C,ACT-DUP-0003,2025-06-22 13:55:19,LOGISTICS_GRP_F,We need to move faster. Whose source hand so add Mr.,False,
+MSG-CE16B150,ACT-0BE618C7,ACT-9150A102,2025-06-27 03:53:54,NET_CHANNEL_4,The long horn is ready for pickup at the usual spot.,True,RTE-367D804C
+MSG-60E23912,ACT-A3B509D1,ACT-95A4317F,2025-06-29 19:27:54,NET_CHANNEL_1,Send the updated manifest. Off southern suddenly window stand.,False,
+MSG-9A968F7F,ACT-6F081E40,ACT-A9F1176D,2025-06-30 01:28:55,NET_CHANNEL_5,Need three more after rain for the next run.,True,RTE-D5B7DEF5
+MSG-81F39C9A,ACT-7353F8D0,ACT-8AF11CFA,2025-07-07 04:16:11,LOGISTICS_GRP_H,Customs officer confirmed. Him note painting quickly we head.,False,
+MSG-73AD636D,ACT-C1CE62FB,ACT-BDA5B9AD,2025-07-07 20:01:59,LOGISTICS_GRP_C,Coordinates sent separately. Wait it quickly produce beat peace something.,False,
+MSG-AF2B99BA,ACT-CA6408EB,ACT-DC4BFFE4,2025-07-09 04:35:50,LOGISTICS_GRP_E,"Payment received, proceed. Table prepare shoulder result.",False,
+MSG-47CC4418,ACT-DD3ED62E,ACT-45C722DA,2025-07-14 03:51:06,NET_CHANNEL_3,We need to move faster. Little another avoid understand tonight nor allow.,False,
+MSG-3084656B,ACT-5535B8FF,ACT-7494AE24,2025-07-21 22:12:54,NET_CHANNEL_1,Port clearance obtained. Color bad that people.,False,
+MSG-15CC7177,ACT-C1CE62FB,ACT-130BC3BE,2025-07-23 05:36:44,LOGISTICS_GRP_E,The weather looks good today. Marriage on discussion point least.,False,
+MSG-3578EFCB,ACT-DC4BFFE4,ACT-45C722DA,2025-08-02 10:58:37,NET_CHANNEL_3,Customs officer confirmed. Model particular hair truth hold simple.,False,
+MSG-8550E696,ACT-95A4317F,ACT-D404B1E6,2025-08-03 07:15:47,LOGISTICS_GRP_F,Be at the location by midnight. Certainly cold every feel site guess want.,False,
+MSG-5DCC4AB8,ACT-9150A102,ACT-DUP-0002,2025-08-06 08:51:43,NET_CHANNEL_4,Everything is on schedule. Tv keep light fight I evening music.,False,
+MSG-84D7C5CD,ACT-239810D5,ACT-D404B1E6,2025-08-09 03:30:36,LOGISTICS_GRP_A,Be at the location by midnight. Drive different tax certain leg arm include.,False,
+MSG-A79B0A46,ACT-F20CA79B,ACT-34C1CDB5,2025-08-09 19:04:41,LOGISTICS_GRP_E,Be at the location by midnight. Experience account blue care enough hand idea.,False,
+MSG-8D32B0F1,ACT-A9F1176D,ACT-6890BAC6,2025-08-11 06:09:45,NET_CHANNEL_5,The jungle fruit is ready for pickup at the usual spot.,True,RTE-367D804C
+MSG-521DB8E2,ACT-2AF63B3F,ACT-4DBAB638,2025-08-14 04:48:14,LOGISTICS_GRP_A,Documents are ready. Century technology floor write generation human set middle.,False,
+MSG-73A4A48E,ACT-2AF63B3F,ACT-239810D5,2025-08-17 09:35:29,LOGISTICS_GRP_F,Use the secondary channel. Together knowledge because radio.,False,
+MSG-349E7119,ACT-DC4BFFE4,ACT-EA441661,2025-08-19 18:39:35,NET_CHANNEL_3,Call me when you land. Doctor from throw ball character.,False,
+MSG-947BABBA,ACT-9A97A853,ACT-130BC3BE,2025-08-22 19:19:18,LOGISTICS_GRP_G,The contact has been verified. Medical choice lot suggest glass news boy.,False,
+MSG-15E0171E,ACT-6F081E40,ACT-A9F1176D,2025-08-26 15:42:04,NET_CHANNEL_5,All clear from my end. Ability understand Mrs rest score provide.,False,
+MSG-AE1CC5B8,ACT-6890BAC6,ACT-DUP-0007,2025-08-30 21:51:12,NET_CHANNEL_5,Be at the location by midnight. Particularly shoulder lay though offer responsibility himself.,False,
+MSG-0CC49F57,ACT-DC4BFFE4,ACT-EA441661,2025-08-30 23:53:01,NET_CHANNEL_3,Do not contact me on this number again. American tell ball we side enough decision.,False,
+MSG-4A439046,ACT-DUP-0004,ACT-DUP-0007,2025-09-01 01:41:13,NET_CHANNEL_5,Don't mention the river crossing on open channels.,True,RTE-657F736F
+MSG-94D5929C,ACT-ADF3339E,ACT-525CFB31,2025-09-05 03:21:49,LOGISTICS_GRP_E,The contact has been verified. Spring environment however health image.,False,
+MSG-BDA1112D,ACT-DUP-0006,ACT-3EC2CAB2,2025-09-07 17:44:08,LOGISTICS_GRP_F,Port clearance obtained. Family bill foreign fast knowledge response coach.,False,
+MSG-ED46BA14,ACT-0270A250,ACT-EB994163,2025-09-09 14:02:11,LOGISTICS_GRP_D,Wait for my signal. Why outside goal.,False,
+MSG-665F2CCA,ACT-ADF3339E,ACT-F0092B27,2025-09-11 14:31:21,LOGISTICS_GRP_D,Do not contact me on this number again. Standard somebody important material.,False,
+MSG-94DC3D80,ACT-F8FB00AA,ACT-525CFB31,2025-09-14 08:00:08,LOGISTICS_GRP_A,Confirm the meeting time. Fish sense kind spring throughout interview trade knowledge.,False,
+MSG-7543D139,ACT-1DF99FFB,ACT-DB3AAE2B,2025-09-14 09:45:23,LOGISTICS_GRP_H,Call me when you land. Our reflect any scientist I doctor describe.,False,
+MSG-4DA2952A,ACT-6890BAC6,ACT-6F081E40,2025-09-14 23:39:54,NET_CHANNEL_5,Use the secondary channel. Could seven right next.,False,
+MSG-28970C42,ACT-A3B509D1,ACT-5535B8FF,2025-09-21 22:25:43,NET_CHANNEL_1,Documents are ready. North agree poor career left anyone here deep.,False,
+MSG-D88C52A9,ACT-6890BAC6,ACT-6F081E40,2025-09-22 05:04:10,NET_CHANNEL_5,Don't mention the blue bird on open channels.,True,RTE-68716855
+MSG-36CC2D0F,ACT-157A0D7D,ACT-EBD0B65D,2025-09-22 17:59:40,NET_CHANNEL_4,Client confirmed. jungle fruit route is clear.,True,RTE-8F0A4EBD
+MSG-4C14AA68,ACT-6E321CE4,ACT-28E1066F,2025-09-24 06:18:54,LOGISTICS_GRP_A,The contact has been verified. Theory across nothing blue work.,False,
+MSG-A98A8065,ACT-6E321CE4,ACT-99F0286C,2025-09-29 07:36:40,LOGISTICS_GRP_G,All clear from my end. Value somebody event business quality here woman.,False,
+MSG-1E160B0E,ACT-A7290540,ACT-95A4317F,2025-10-01 12:58:48,NET_CHANNEL_1,Be at the location by midnight. Agent this no trip determine as statement.,False,
+MSG-E9FD0958,ACT-4DBAB638,ACT-01EA26A9,2025-10-01 21:50:55,LOGISTICS_GRP_B,The contact has been verified. Five letter environment easy.,False,
+MSG-5042C1ED,ACT-480A6546,ACT-2F205955,2025-10-03 12:18:49,NET_CHANNEL_2,All clear from my end. Card team budget year hotel camera without.,False,
+MSG-5E1E8C1B,ACT-7494AE24,ACT-9FA63766,2025-10-05 14:45:17,LOGISTICS_GRP_B,Delivery confirmed. All way body affect finish.,False,
+MSG-C0E0C15D,ACT-74B10513,ACT-5BCEA423,2025-10-10 23:39:48,LOGISTICS_GRP_E,Confirm the meeting time. Everybody so increase various.,False,
+MSG-0C0E786B,ACT-525CFB31,ACT-A647D8DE,2025-10-12 13:28:08,LOGISTICS_GRP_F,When does the shipment arrive? Others wonder strategy fast guess few remain.,False,
+MSG-C5F5BF82,ACT-28E1066F,ACT-CFAB48FB,2025-10-15 19:11:26,LOGISTICS_GRP_D,Use the secondary channel. Interest here discover leave choice country themselves.,False,
+MSG-73330F75,ACT-A8B80500,ACT-4A810E54,2025-10-18 21:41:56,LOGISTICS_GRP_G,Call me when you land. According himself land environment form.,False,
+MSG-65E46642,ACT-0137B6D6,ACT-A8B80500,2025-10-19 13:25:49,LOGISTICS_GRP_F,Use the secondary channel. Attack character despite lay art.,False,
+MSG-BF730233,ACT-95A4317F,ACT-5535B8FF,2025-10-23 07:09:30,NET_CHANNEL_1,Truck is loaded. Environment able rise study oil process tend.,False,
+MSG-EA9B4E25,ACT-0BE618C7,ACT-DUP-0002,2025-10-24 11:47:43,NET_CHANNEL_4,"Extra ivory tea available, contact me privately.",True,RTE-27682144
+MSG-1BF4FDEC,ACT-6F081E40,ACT-A9F1176D,2025-10-25 11:39:42,NET_CHANNEL_5,Call me when you land. Someone rise read ago listen.,False,
+MSG-08A662A4,ACT-020A968E,ACT-20D0E245,2025-10-27 01:06:40,LOGISTICS_GRP_C,Everything is on schedule. Water positive child usually factor relate indeed.,False,
+MSG-180732BD,ACT-A19B3B13,ACT-2F205955,2025-10-31 22:04:16,NET_CHANNEL_2,Confirm the meeting time. Catch economic political them never bill suffer surface.,False,
+MSG-2486579E,ACT-5535B8FF,ACT-95A4317F,2025-11-01 18:08:39,NET_CHANNEL_1,Don't mention the after rain on open channels.,True,RTE-6502C0EF
+MSG-4AE392FB,ACT-6890BAC6,ACT-A9F1176D,2025-11-08 23:17:05,NET_CHANNEL_5,Documents are ready. Why for plant situation late direction.,False,
+MSG-CB8E71CD,ACT-A3B509D1,ACT-A7290540,2025-11-15 21:31:11,NET_CHANNEL_1,Do not contact me on this number again. Day stop never only spend do similar.,False,
+MSG-E3B744EC,ACT-DUP-0004,ACT-6890BAC6,2025-11-17 12:38:21,NET_CHANNEL_5,Use the secondary channel. Court yourself choice fast small medical music.,False,
+MSG-AB8FC7EB,ACT-95A4317F,ACT-F513E9F2,2025-11-18 05:58:18,LOGISTICS_GRP_H,Delivery confirmed. Pull final against effort able design authority.,False,
+MSG-B153A4BD,ACT-157A0D7D,ACT-CA6408EB,2025-11-21 01:44:07,LOGISTICS_GRP_C,We need to move faster. Push news participant price really ahead event several.,False,
+MSG-3B3AB6C5,ACT-2F205955,ACT-5BCEA423,2025-11-23 15:41:16,NET_CHANNEL_2,When does the shipment arrive? Exist professional people behavior.,False,
+MSG-D986BA37,ACT-0BE618C7,ACT-9150A102,2025-11-28 05:14:44,NET_CHANNEL_4,Client confirmed. river crossing route is clear.,True,RTE-8F0A4EBD
+MSG-4B7C6307,ACT-93684B5D,ACT-0DD6E664,2025-12-02 08:45:48,LOGISTICS_GRP_E,Customs officer confirmed. Including every news option same.,False,
+MSG-B5C969DF,ACT-5BCEA423,ACT-480A6546,2025-12-03 19:05:29,NET_CHANNEL_2,Customs officer confirmed. Treat seat strategy.,False,
+MSG-658398E8,ACT-DUP-0003,ACT-0D3A69A7,2025-12-03 20:14:12,LOGISTICS_GRP_B,Customs officer confirmed. Mrs generation necessary myself lay focus country.,False,
+MSG-CE044892,ACT-DUP-0007,ACT-6890BAC6,2025-12-06 21:02:58,NET_CHANNEL_5,Client confirmed. jungle fruit route is clear.,True,RTE-5B12885C
+MSG-91D42AA7,ACT-DD3ED62E,ACT-EA441661,2025-12-07 13:41:38,NET_CHANNEL_3,Port clearance obtained. Improve pressure child light.,False,
+MSG-4636EEDC,ACT-5BCEA423,ACT-DUP-0001,2025-12-08 08:13:28,NET_CHANNEL_2,Don't mention the night delivery on open channels.,True,RTE-3623DB4A
+MSG-629388B7,ACT-DUP-0008,ACT-7187AEBF,2025-12-12 12:59:46,LOGISTICS_GRP_B,All clear from my end. Box as large gun order later develop.,False,
+MSG-55C9FE38,ACT-F70E04EC,ACT-B1A0AF66,2025-12-16 08:21:43,LOGISTICS_GRP_E,"Payment received, proceed. Remember be next poor foreign campaign reflect water.",False,
+MSG-B48768E5,ACT-001930AF,ACT-157A0D7D,2025-12-19 08:26:57,LOGISTICS_GRP_F,Call me when you land. Begin right couple environmental purpose owner.,False,
+MSG-0EF87FD3,ACT-EBD0B65D,ACT-157A0D7D,2025-12-19 10:08:02,NET_CHANNEL_4,The jungle fruit is ready for pickup at the usual spot.,True,RTE-15AFBAC8
+MSG-5AA8EFDD,ACT-157A0D7D,ACT-EBD0B65D,2025-12-31 23:13:18,NET_CHANNEL_4,How many long horn units are we moving this week?,True,RTE-D5B7DEF5
+MSG-50AC28EC,ACT-A3B509D1,ACT-A7290540,2026-01-01 13:37:59,NET_CHANNEL_1,The contact has been verified. Admit spend purpose south travel.,False,
+MSG-4DCAD757,ACT-480A6546,ACT-2F205955,2026-01-07 05:58:55,NET_CHANNEL_2,Client confirmed. ivory tea route is clear.,True,RTE-83C30583
+MSG-8F530B35,ACT-DUP-0006,ACT-DUP-0001,2026-01-09 07:15:00,LOGISTICS_GRP_E,Coordinates sent separately. Probably result painting successful.,False,
+MSG-AC869A91,ACT-480A6546,ACT-2F205955,2026-01-09 19:12:49,NET_CHANNEL_2,Client confirmed. grey stone route is clear.,True,RTE-D769322C
+MSG-ECE43A27,ACT-7494AE24,ACT-95A4317F,2026-01-12 18:19:47,NET_CHANNEL_1,We need to move faster. During prevent accept seem show blood.,False,
+MSG-384D7C59,ACT-DUP-0001,ACT-A19B3B13,2026-01-14 21:44:07,NET_CHANNEL_2,The contact has been verified. Behavior provide meet adult final week game.,False,
+MSG-69B7FB54,ACT-F0092B27,ACT-8A3A138F,2026-01-15 07:36:17,LOGISTICS_GRP_F,Send the updated manifest. Whole forward beyond suddenly between treat address.,False,
+MSG-13B4537C,ACT-DUP-0001,ACT-480A6546,2026-01-21 01:08:25,NET_CHANNEL_2,Need three more forest gift for the next run.,True,RTE-B4CA579B
+MSG-72CC7F28,ACT-5535B8FF,ACT-A7290540,2026-01-21 08:15:46,NET_CHANNEL_1,Need three more night delivery for the next run.,True,RTE-B4CA579B
+MSG-EBBC2E26,ACT-C246476B,ACT-8A3A138F,2026-01-26 11:27:48,LOGISTICS_GRP_B,"Payment received, proceed. They red everybody act way.",False,
+MSG-924D0DF2,ACT-45C722DA,ACT-DC4BFFE4,2026-01-27 05:38:12,NET_CHANNEL_3,Documents are ready. Ever person pass behavior political option oil.,False,
+MSG-98CAA24F,ACT-34C1CDB5,ACT-0D3A69A7,2026-01-28 15:19:44,LOGISTICS_GRP_B,Documents are ready. Hundred now crime.,False,
+MSG-FEC9E45A,ACT-CAA8911E,ACT-0DD6E664,2026-02-02 04:03:04,LOGISTICS_GRP_B,Wait for my signal. Class drive strong home to.,False,
+MSG-1EB3A267,ACT-525CFB31,ACT-CAA8911E,2026-02-02 11:41:16,LOGISTICS_GRP_D,We need to move faster. Generation wait thus suffer economy.,False,
+MSG-8BABF58F,ACT-2F205955,ACT-DUP-0001,2026-02-09 05:21:39,NET_CHANNEL_2,The contact has been verified. Place specific as simply leader fall analysis.,False,
+MSG-90756EAB,ACT-6F081E40,ACT-DUP-0004,2026-02-10 00:28:35,NET_CHANNEL_5,Wait for my signal. Tree store either station loss southern second.,False,
+MSG-19566DA5,ACT-46D85523,ACT-1B6D6C5C,2026-02-10 15:29:19,LOGISTICS_GRP_G,Truck is loaded. Eye hit late near stay perhaps particularly.,False,
+MSG-DF236831,ACT-6C6CC66E,ACT-9FA63766,2026-02-10 23:42:09,LOGISTICS_GRP_A,"Payment received, proceed. Sense current meeting matter and case.",False,
+MSG-C8FB5482,ACT-95A4317F,ACT-7494AE24,2026-02-13 14:43:48,NET_CHANNEL_1,"Extra brown parcel available, contact me privately.",True,RTE-FDDFEF85
+MSG-8A90D5F9,ACT-DUP-0001,ACT-2F205955,2026-02-14 08:10:25,NET_CHANNEL_2,Do not contact me on this number again. Call door population.,False,
+MSG-D9734781,ACT-A647D8DE,ACT-EA441661,2026-02-16 17:00:13,LOGISTICS_GRP_A,Use the secondary channel. Eight strong nature.,False,
+MSG-F142BC91,ACT-BEF7869A,ACT-D2CB78D6,2026-02-22 22:19:31,LOGISTICS_GRP_A,Send the updated manifest. Officer return on color pick people subject challenge.,False,
+MSG-13BF40BC,ACT-DUP-0008,ACT-DUP-0006,2026-02-23 04:06:45,LOGISTICS_GRP_F,Do not contact me on this number again. Sound necessary partner beat finally yourself rest.,False,
+MSG-505E45C1,ACT-A19B3B13,ACT-2F205955,2026-02-25 00:50:58,NET_CHANNEL_2,Client confirmed. grey stone route is clear.,True,RTE-D37D6F20
+MSG-E0AEE61F,ACT-8AF11CFA,ACT-DUP-0006,2026-03-05 10:54:54,LOGISTICS_GRP_F,Do not contact me on this number again. Off morning huge power.,False,
+MSG-F20C5EFE,ACT-BDA5B9AD,ACT-157A0D7D,2026-03-06 00:49:18,LOGISTICS_GRP_D,Delivery confirmed. Attack story behavior benefit school speech news.,False,
+MSG-426653F2,ACT-F134FC9B,ACT-83FE0258,2026-03-07 04:20:57,LOGISTICS_GRP_G,Be at the location by midnight. Eight community check service.,False,
+MSG-73F9C2BB,ACT-F702EB53,ACT-0137B6D6,2026-03-09 20:40:01,LOGISTICS_GRP_B,Everything is on schedule. General run pick sign.,False,
+MSG-D35477D9,ACT-F8FB00AA,ACT-0270A250,2026-03-10 14:46:00,LOGISTICS_GRP_E,The contact has been verified. Grow issue each include radio.,False,
+MSG-FD6D986F,ACT-516B220E,ACT-EA441661,2026-03-12 19:20:26,NET_CHANNEL_3,The ivory tea passed through without issues.,True,RTE-15E430E6
+MSG-F8AF7C23,ACT-DUP-0001,ACT-5BCEA423,2026-03-13 03:30:56,NET_CHANNEL_2,Wait for my signal. Five our pull fly few century produce.,False,
+MSG-0748E5CB,ACT-DUP-0004,ACT-DUP-0007,2026-03-14 02:08:19,NET_CHANNEL_5,All clear from my end. Administration debate certain star start up.,False,
+MSG-ED601637,ACT-516B220E,ACT-DC4BFFE4,2026-03-18 08:02:11,NET_CHANNEL_3,"Waiting for the grey stone handover, be patient.",True,RTE-B4CA579B
+MSG-FF1C88E1,ACT-DUP-0002,ACT-157A0D7D,2026-03-18 17:13:39,NET_CHANNEL_4,Don't mention the ivory tea on open channels.,True,RTE-B4DC47C9
+MSG-ECB0DA3C,ACT-2F205955,ACT-A19B3B13,2026-03-21 19:59:17,NET_CHANNEL_2,Be at the location by midnight. Life cover both class learn either control.,False,
+MSG-F73E40D7,ACT-6C6CC66E,ACT-3B25DA0A,2026-03-22 07:37:17,LOGISTICS_GRP_H,Call me when you land. Particular court east newspaper different.,False,
+MSG-43EAA6AF,ACT-95A4317F,ACT-7494AE24,2026-03-22 10:25:42,NET_CHANNEL_1,Need three more brown parcel for the next run.,True,RTE-3BE0D749
+MSG-7F57236B,ACT-DUP-0002,ACT-9150A102,2026-03-23 14:05:30,NET_CHANNEL_4,Port clearance obtained. Hard network gas you nearly goal law fill.,False,
+MSG-D37B9375,ACT-DD3ED62E,ACT-EA441661,2026-03-24 00:09:19,NET_CHANNEL_3,Confirm night delivery delivery before sunrise.,True,RTE-B5BE3EA8
+MSG-BD9DF611,ACT-45C722DA,ACT-DC4BFFE4,2026-03-26 00:13:42,NET_CHANNEL_3,"Extra long horn available, contact me privately.",True,RTE-DD5236CF
+MSG-D1C6869C,ACT-EBD0B65D,ACT-0BE618C7,2026-03-28 03:16:32,NET_CHANNEL_4,Be at the location by midnight. Ago government behavior our.,False,
+MSG-C1BAA8C7,ACT-EA441661,ACT-DD3ED62E,2026-04-03 23:37:57,NET_CHANNEL_3,We need to move faster. Pm reflect bar suddenly.,False,
+MSG-532846FA,ACT-95A4317F,ACT-DUP-0002,2026-04-06 06:50:10,LOGISTICS_GRP_D,Coordinates sent separately. Simply discover soon despite couple.,False,
+MSG-28527965,ACT-6F081E40,ACT-DUP-0007,2026-04-07 14:11:39,NET_CHANNEL_5,"Extra jungle fruit available, contact me privately.",True,RTE-C3C4BB2E
+MSG-CAB70541,ACT-F0092B27,ACT-130BC3BE,2026-04-10 12:18:46,LOGISTICS_GRP_F,All clear from my end. Season listen else easy.,False,
+MSG-90CA107A,ACT-9DC49715,ACT-F20CA79B,2026-04-16 09:38:01,LOGISTICS_GRP_A,All clear from my end. Marriage method material final.,False,
+MSG-C7B8B74A,ACT-2F205955,ACT-5BCEA423,2026-04-18 10:19:31,NET_CHANNEL_2,Truck is loaded. Point sell bill activity.,False,
+MSG-E483FE27,ACT-A8B80500,ACT-28E1066F,2026-04-19 17:14:27,LOGISTICS_GRP_C,Send the updated manifest. Son today major event magazine home protect.,False,
+MSG-D87AB9F1,ACT-5535B8FF,ACT-9DC49715,2026-04-24 15:03:54,LOGISTICS_GRP_H,All clear from my end. Last special prepare.,False,
+MSG-888371F3,ACT-DUP-0002,ACT-157A0D7D,2026-05-01 05:01:12,NET_CHANNEL_4,The grey stone deal closes after rain.,True,RTE-A842284A
+MSG-EACD3EF5,ACT-EA441661,ACT-DD3ED62E,2026-05-02 15:55:15,NET_CHANNEL_3,Client confirmed. brown parcel route is clear.,True,RTE-5A090E6C
+MSG-DEEDA0E4,ACT-DUP-0004,ACT-DUP-0007,2026-05-12 10:30:23,NET_CHANNEL_5,The brown parcel passed through without issues.,True,RTE-FDDFEF85
+MSG-B70EB9DD,ACT-6F081E40,ACT-6890BAC6,2026-05-15 06:27:51,NET_CHANNEL_5,Confirm the meeting time. Tree process administration mother in admit reveal movie.,False,
+MSG-A2B5D0EB,ACT-0BE618C7,ACT-DUP-0002,2026-05-17 15:30:25,NET_CHANNEL_4,Use the secondary channel. Newspaper care drug data position two.,False,
+MSG-D010E12D,ACT-FDE9DAFE,ACT-A7290540,2026-05-23 19:02:39,LOGISTICS_GRP_A,Confirm the meeting time. Able teach certain candidate economy company produce ago.,False,
+MSG-33823DF2,ACT-516B220E,ACT-DD3ED62E,2026-05-24 23:23:04,NET_CHANNEL_3,Be at the location by midnight. Beautiful issue news mention.,False,
+MSG-14128D10,ACT-024E3B6A,ACT-7187AEBF,2026-05-28 01:21:29,LOGISTICS_GRP_C,Port clearance obtained. International blue Republican kitchen tonight focus.,False,
+MSG-BD1EF342,ACT-DUP-0004,ACT-95A4317F,2026-05-31 04:23:05,LOGISTICS_GRP_G,Coordinates sent separately. Lead soon property write.,False,
+MSG-D1D77965,ACT-2F205955,ACT-54264291,2026-06-01 05:27:18,LOGISTICS_GRP_B,Wait for my signal. Question or money final determine.,False,
+MSG-7A2601F5,ACT-95A4317F,ACT-7494AE24,2026-06-01 10:25:00,NET_CHANNEL_1,Truck is loaded. Bed hotel lead.,False,
+MSG-87318ACD,ACT-5BCEA423,ACT-480A6546,2026-06-04 21:26:43,NET_CHANNEL_2,The after rain deal closes after rain.,True,RTE-15AFBAC8
+MSG-7B49C2BA,ACT-DD3ED62E,ACT-516B220E,2026-06-05 23:44:18,NET_CHANNEL_3,How many jungle fruit units are we moving this week?,True,RTE-4424DBF1
+MSG-AA6B0D05,ACT-EBD0B65D,ACT-9150A102,2026-06-10 14:58:38,NET_CHANNEL_4,The river crossing deal closes after rain.,True,RTE-B4CA579B
+MSG-BBBAAC8B,ACT-D2CB78D6,ACT-0DD6E664,2026-06-13 11:43:42,LOGISTICS_GRP_F,"Payment received, proceed. Cell year doctor trouble.",False,
+MSG-43B6F2AF,ACT-EA441661,ACT-45C722DA,2026-06-15 02:16:36,NET_CHANNEL_3,Customs officer confirmed. Their save artist catch debate foot production.,False,
+MSG-03D4BCCF,ACT-DUP-0004,ACT-6F081E40,2026-06-16 04:59:28,NET_CHANNEL_5,The after rain passed through without issues.,True,RTE-7C3E668E
+MSG-416F9627,ACT-157A0D7D,ACT-EBD0B65D,2026-06-19 04:05:48,NET_CHANNEL_4,Everything is on schedule. Woman during necessary himself two meet these.,False,
+MSG-890AC355,ACT-DC4BFFE4,ACT-EA441661,2026-06-20 18:07:14,NET_CHANNEL_3,The weather looks good today. During recently feel stock ball yard practice.,False,
+MSG-5BC7698F,ACT-C8A0BC45,ACT-EB994163,2026-06-21 15:42:07,LOGISTICS_GRP_C,Customs officer confirmed. Second develop single baby plan.,False,
+MSG-DCB51351,ACT-A3B509D1,ACT-A7290540,2026-06-22 13:39:05,NET_CHANNEL_1,Confirm the meeting time. Concern significant management senior.,False,
+MSG-12ECD9E7,ACT-0270A250,ACT-76F7BDE8,2026-06-25 07:54:02,LOGISTICS_GRP_A,Truck is loaded. Involve thousand including still human.,False,
+MSG-2137FFB0,ACT-C1CE62FB,ACT-D2CB78D6,2026-06-28 02:08:42,LOGISTICS_GRP_C,Send the updated manifest. Compare herself region matter street south.,False,
+MSG-2224F272,ACT-802FEC44,ACT-6F081E40,2026-07-01 03:39:34,LOGISTICS_GRP_G,Use the secondary channel. Begin most heavy.,False,
+MSG-1E1033DA,ACT-DUP-0002,ACT-157A0D7D,2026-07-03 18:22:43,NET_CHANNEL_4,"Waiting for the grey stone handover, be patient.",True,RTE-837DA83F
+MSG-91657965,ACT-0E08ABDD,ACT-B49444A6,2026-07-04 17:26:33,LOGISTICS_GRP_C,Confirm the meeting time. Type thousand show real police wait happen.,False,
+MSG-37BC9AC3,ACT-F8FB00AA,ACT-28E1066F,2026-07-06 14:06:18,LOGISTICS_GRP_D,Delivery confirmed. Senior anyone bank kitchen.,False,
+MSG-7257FB94,ACT-DUP-0006,ACT-1D992B5E,2026-07-07 23:44:00,LOGISTICS_GRP_D,Customs officer confirmed. Nearly need behavior yeah tree.,False,
+MSG-63C81423,ACT-F0092B27,ACT-0D3A69A7,2026-07-08 10:18:49,LOGISTICS_GRP_G,All clear from my end. Majority none little admit former body indicate.,False,
+MSG-771CA9A7,ACT-A7290540,ACT-5535B8FF,2026-07-10 02:36:28,NET_CHANNEL_1,Everything is on schedule. Herself accept goal send table well industry.,False,
+MSG-AE07B349,ACT-A19B3B13,ACT-DUP-0006,2026-07-10 17:57:42,LOGISTICS_GRP_A,Truck is loaded. Power bring animal also you.,False,
+MSG-58A40B31,ACT-157A0D7D,ACT-DUP-0002,2026-07-13 05:44:50,NET_CHANNEL_4,Delivery confirmed. Well central parent sit.,False,
+MSG-8F099F74,ACT-EA441661,ACT-45C722DA,2026-07-14 03:29:34,NET_CHANNEL_3,"Waiting for the ivory tea handover, be patient.",True,RTE-5A7B190F
+MSG-1F7069B6,ACT-9150A102,ACT-0BE618C7,2026-07-22 22:58:41,NET_CHANNEL_4,The brown parcel passed through without issues.,True,RTE-4424DBF1
+MSG-123E0BB1,ACT-5535B8FF,ACT-2DA4F2E3,2026-07-23 20:25:51,LOGISTICS_GRP_H,Call me when you land. Yes heart agreement us stuff practice.,False,
+MSG-4159F608,ACT-9150A102,ACT-157A0D7D,2026-07-25 23:52:38,NET_CHANNEL_4,Use the secondary channel. What no prove improve them wait institution trouble.,False,
+MSG-F264AC7D,ACT-480A6546,ACT-DUP-0001,2026-08-06 01:42:12,NET_CHANNEL_2,Delivery confirmed. Medical project for recent never.,False,
+MSG-671BE0BF,ACT-F513E9F2,ACT-2F205955,2026-08-06 10:30:21,LOGISTICS_GRP_B,Confirm the meeting time. Building court build movie several.,False,
+MSG-822540E0,ACT-EA441661,ACT-516B220E,2026-08-07 22:01:39,NET_CHANNEL_3,How many jungle fruit units are we moving this week?,True,RTE-5B12885C
+MSG-7CDA14A1,ACT-239810D5,ACT-DUP-0009,2026-08-08 18:52:15,LOGISTICS_GRP_E,"Payment received, proceed. Course school everybody operation.",False,
+MSG-D005A744,ACT-BF767554,ACT-1D992B5E,2026-08-11 18:19:20,LOGISTICS_GRP_H,Documents are ready. Image street fight decision size.,False,
+MSG-6E2EC523,ACT-6890BAC6,ACT-CAA8911E,2026-08-13 02:26:40,LOGISTICS_GRP_H,Send the updated manifest. Window hour some fund.,False,
+MSG-19586F98,ACT-DUP-0004,ACT-A9F1176D,2026-08-14 06:11:37,NET_CHANNEL_5,The grey stone passed through without issues.,True,RTE-BFA90C2B
+MSG-9CF8E92C,ACT-DUP-0004,ACT-6890BAC6,2026-08-17 12:47:18,NET_CHANNEL_5,Port clearance obtained. College result major true my politics.,False,
+MSG-3022AE4B,ACT-A19B3B13,ACT-DUP-0001,2026-08-20 04:48:08,NET_CHANNEL_2,"Extra brown parcel available, contact me privately.",True,RTE-05837773
+MSG-C3148A11,ACT-6F081E40,ACT-DUP-0007,2026-08-27 20:13:30,NET_CHANNEL_5,"Waiting for the after rain handover, be patient.",True,RTE-D37D6F20
+MSG-C33B663C,ACT-C48421F9,ACT-DB3AAE2B,2026-09-01 11:37:35,LOGISTICS_GRP_F,"Payment received, proceed. Here first responsibility service their along attention.",False,
+MSG-A784FFF1,ACT-6C6CC66E,ACT-8F24BB27,2026-09-02 13:23:22,LOGISTICS_GRP_E,Customs officer confirmed. Member town glass road standard spring door.,False,
+MSG-8B8FF204,ACT-BEF7869A,ACT-76F7BDE8,2026-09-02 14:39:13,LOGISTICS_GRP_D,The weather looks good today. Past medical leg never.,False,
+MSG-E7B6B5EF,ACT-DUP-0003,ACT-0BE618C7,2026-09-03 02:50:13,LOGISTICS_GRP_C,Do not contact me on this number again. Key issue statement prepare organization feel.,False,
+MSG-5A51AEE4,ACT-DUP-0008,ACT-8D60BEB9,2026-09-03 03:22:11,LOGISTICS_GRP_C,Wait for my signal. Energy employee land you.,False,
+MSG-FDA9E1C2,ACT-DUP-0004,ACT-6F081E40,2026-09-04 14:00:23,NET_CHANNEL_5,How many night delivery units are we moving this week?,True,RTE-9EC78713
+MSG-CC043F1B,ACT-BA821236,ACT-898A30A1,2026-09-05 21:55:52,LOGISTICS_GRP_H,Port clearance obtained. Drive attack order.,False,
+MSG-066E6CDE,ACT-DUP-0007,ACT-6F081E40,2026-09-06 15:06:28,NET_CHANNEL_5,The contact has been verified. Really relationship ask imagine my indeed.,False,
+MSG-812A2554,ACT-A7290540,ACT-5535B8FF,2026-09-09 01:55:24,NET_CHANNEL_1,Use the secondary channel. From management foot maintain great election.,False,
+MSG-51B504D5,ACT-9150A102,ACT-157A0D7D,2026-09-17 23:37:06,NET_CHANNEL_4,Coordinates sent separately. Heavy what least mouth national put test.,False,
+MSG-F9097EEF,ACT-157A0D7D,ACT-DUP-0002,2026-09-18 02:20:04,NET_CHANNEL_4,Use the secondary channel. Gun series personal service data near until.,False,
+MSG-4E0A36A8,ACT-DD3ED62E,ACT-EA441661,2026-09-19 07:27:48,NET_CHANNEL_3,The after rain deal closes after rain.,True,RTE-C3C4BB2E
+MSG-FA3608AA,ACT-A19B3B13,ACT-2F205955,2026-09-19 08:24:49,NET_CHANNEL_2,Do not contact me on this number again. Magazine kind event sense box involve.,False,
+MSG-926BC413,ACT-45C722DA,ACT-DD3ED62E,2026-09-22 01:37:44,NET_CHANNEL_3,Customs officer confirmed. Television office of remember.,False,
+MSG-FAA08EA2,ACT-A19B3B13,ACT-5BCEA423,2026-09-24 16:33:02,NET_CHANNEL_2,"Waiting for the jungle fruit handover, be patient.",True,RTE-C146AD8A
+MSG-7D2152AC,ACT-DUP-0004,ACT-6F081E40,2026-09-24 17:13:45,NET_CHANNEL_5,The blue bird is ready for pickup at the usual spot.,True,RTE-83C30583
+MSG-12043CBB,ACT-DUP-0004,ACT-6890BAC6,2026-09-27 21:00:52,NET_CHANNEL_5,Confirm the meeting time. School sure also TV individual study value.,False,
+MSG-D249FD11,ACT-157A0D7D,ACT-EBD0B65D,2026-09-28 22:56:13,NET_CHANNEL_4,Confirm brown parcel delivery before sunrise.,True,RTE-837DA83F
+MSG-1EFB8A2C,ACT-9150A102,ACT-0BE618C7,2026-09-29 23:39:34,NET_CHANNEL_4,How many grey stone units are we moving this week?,True,RTE-FB4EE4BA
+MSG-EA22509C,ACT-6C6CC66E,ACT-F702EB53,2026-10-01 23:00:07,LOGISTICS_GRP_C,Confirm the meeting time. Within citizen present thing little practice sense.,False,
+MSG-D3F0739A,ACT-EA441661,ACT-DD3ED62E,2026-10-02 11:00:12,NET_CHANNEL_3,Send the updated manifest. Analysis situation term miss leader who article look.,False,
+MSG-A6662E96,ACT-480A6546,ACT-5BCEA423,2026-10-03 07:27:27,NET_CHANNEL_2,Call me when you land. She miss phone ever back.,False,
+MSG-1B34BF37,ACT-EBD0B65D,ACT-0BE618C7,2026-10-05 05:54:19,NET_CHANNEL_4,Customs officer confirmed. Citizen kid generation onto police interesting economic.,False,
+MSG-A95E5FAA,ACT-866A9666,ACT-DUP-0007,2026-10-12 16:36:22,LOGISTICS_GRP_G,When does the shipment arrive? Wear current after.,False,
+MSG-65D7C9BF,ACT-2F205955,ACT-DUP-0001,2026-10-20 23:06:12,NET_CHANNEL_2,How many river crossing units are we moving this week?,True,RTE-4B8AC9E4
+MSG-A80F604E,ACT-0BE618C7,ACT-DUP-0002,2026-10-21 22:42:39,NET_CHANNEL_4,Truck is loaded. Base civil last message store.,False,
+MSG-B65FC2C2,ACT-9150A102,ACT-DUP-0002,2026-10-23 07:27:42,NET_CHANNEL_4,The ivory tea passed through without issues.,True,RTE-4B8AC9E4
+MSG-E8573295,ACT-5535B8FF,ACT-BEF7869A,2026-10-23 22:52:16,LOGISTICS_GRP_E,Truck is loaded. Soldier meeting building cut.,False,
+MSG-B40A2A24,ACT-5535B8FF,ACT-95A4317F,2026-11-03 01:25:33,NET_CHANNEL_1,When does the shipment arrive? Increase how hear.,False,
+MSG-4F162A75,ACT-B62E0FB9,ACT-C246476B,2026-11-07 00:43:41,LOGISTICS_GRP_C,Confirm the meeting time. Be easy newspaper indicate other.,False,
+MSG-E6A67643,ACT-9FA63766,ACT-FDE9DAFE,2026-11-07 17:48:15,LOGISTICS_GRP_E,The contact has been verified. Case expert stop receive.,False,
+MSG-91856C20,ACT-A9F1176D,ACT-DUP-0007,2026-11-09 05:34:50,NET_CHANNEL_5,Coordinates sent separately. Include data maybe particularly.,False,
+MSG-D1ED1C81,ACT-DUP-0007,ACT-DUP-0004,2026-11-11 22:41:05,NET_CHANNEL_5,"Payment received, proceed. Question return process stuff pick.",False,
+MSG-BD08DB18,ACT-EBD0B65D,ACT-9150A102,2026-11-19 08:34:24,NET_CHANNEL_4,Coordinates sent separately. Front they everything week instead strong.,False,
+MSG-0C5AC1AE,ACT-480A6546,ACT-A19B3B13,2026-11-28 16:07:40,NET_CHANNEL_2,"Extra forest gift available, contact me privately.",True,RTE-EFEFC83E
+MSG-919B2521,ACT-7353F8D0,ACT-A7290540,2026-11-29 14:10:05,LOGISTICS_GRP_H,"Payment received, proceed. Really tough animal someone.",False,
+MSG-FDC64BA6,ACT-0BE618C7,ACT-157A0D7D,2026-11-30 11:44:19,NET_CHANNEL_4,Customs officer confirmed. Box assume man officer rather charge specific.,False,
+MSG-66FB08AD,ACT-525CFB31,ACT-7353F8D0,2026-11-30 19:11:38,LOGISTICS_GRP_A,The contact has been verified. Painting may whatever late specific study.,False,
+MSG-52BE8C9D,ACT-EA441661,ACT-8F24BB27,2026-12-02 23:48:24,LOGISTICS_GRP_F,Use the secondary channel. Pretty section degree still even no.,False,
+MSG-ABB0DF4C,ACT-EA441661,ACT-DC4BFFE4,2026-12-08 15:36:14,NET_CHANNEL_3,Client confirmed. ivory tea route is clear.,True,RTE-05837773
+MSG-8C15177C,ACT-1D7B2448,ACT-0270A250,2026-12-08 22:30:29,LOGISTICS_GRP_F,Everything is on schedule. Dark Mr clearly take kind quite response.,False,
+MSG-F2CBF0D5,ACT-EA441661,ACT-DC4BFFE4,2026-12-09 03:34:00,NET_CHANNEL_3,Documents are ready. Worker left example high month whom stage.,False,
+MSG-CBD3B10A,ACT-DUP-0007,ACT-A9F1176D,2026-12-11 12:59:22,NET_CHANNEL_5,Wait for my signal. Position make society behavior develop reality fill.,False,
+MSG-8C8C76B9,ACT-1DF99FFB,ACT-A19B3B13,2026-12-12 13:47:27,LOGISTICS_GRP_C,Delivery confirmed. Share include successful.,False,
+MSG-FFF0657C,ACT-0BE618C7,ACT-DUP-0002,2026-12-12 18:52:18,NET_CHANNEL_4,We need to move faster. Occur do simply analysis seat.,False,
+MSG-DCE400FE,ACT-45C722DA,ACT-DC4BFFE4,2026-12-12 23:27:55,NET_CHANNEL_3,Wait for my signal. Large under north play person ten physical character.,False,
+MSG-066C2169,ACT-A3B509D1,ACT-A7290540,2026-12-14 04:25:37,NET_CHANNEL_1,The jungle fruit deal closes after rain.,True,RTE-5CFE009F
+MSG-F150BFB4,ACT-A19B3B13,ACT-480A6546,2026-12-15 23:18:40,LOGISTICS_GRP_G,When does the shipment arrive? Allow produce past view.,False,
+MSG-01AEF244,ACT-D4295B58,ACT-F20CA79B,2026-12-17 03:12:45,LOGISTICS_GRP_B,Customs officer confirmed. Democrat good anything manager think.,False,
+MSG-29F176A6,ACT-DUP-0002,ACT-EB994163,2026-12-20 12:16:52,LOGISTICS_GRP_D,Be at the location by midnight. Model guess well name.,False,
+MSG-55FB77AC,ACT-451B57E0,ACT-3FD962A7,2026-12-25 10:14:24,LOGISTICS_GRP_C,Wait for my signal. Draw list boy way.,False,
+MSG-2A8F67BC,ACT-45C722DA,ACT-516B220E,2026-12-30 04:12:32,NET_CHANNEL_3,"Extra after rain available, contact me privately.",True,RTE-C146AD8A

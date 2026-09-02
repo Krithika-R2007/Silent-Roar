@@ -1,0 +1,21 @@
+route_id,source,transit,destination,total_incidents,recent_incidents,historical_incidents,unique_actors,unique_species,route_risk_score,route_status
+RTE-844D2BD8,Kochi Port,Dubai,Maputo,26,4,3,10,4,84.4,EMERGING
+RTE-F51C2F2E,Chennai Port,Colombo,Mombasa,30,1,1,17,4,76.0,HIGH_RISK
+RTE-15641305,Tuticorin Port,Colombo,Maputo,28,1,0,16,4,72.04,HIGH_RISK
+RTE-32F0E94F,Visakhapatnam,Singapore,Mombasa,25,0,0,12,4,55.13,HIGH_RISK
+RTE-FB4EE4BA,Mumbai Port,Aden,Mombasa,22,0,2,9,2,50.35,HIGH_RISK
+RTE-D37D6F20,Kochi Port,Aden,Dar es Salaam,14,0,2,14,4,47.05,HIGH_RISK
+RTE-5A090E6C,Mumbai Port,Dubai,Durban,14,0,0,14,4,44.95,HIGH_RISK
+RTE-22651175,Chennai Port,Nairobi (Air),Dar es Salaam,8,0,1,8,3,31.05,HIGH_RISK
+RTE-C3C4BB2E,Tuticorin Port,Kuala Lumpur,Mombasa,8,0,0,8,3,28.95,RECURRING
+RTE-12678A58,Tuticorin Port,Bangkok,Durban,5,1,0,5,2,28.07,RECURRING
+RTE-05837773,Chennai Port,Kuala Lumpur,Dar es Salaam,7,0,1,7,4,26.3,RECURRING
+RTE-8F0A4EBD,Mumbai Port,Kuala Lumpur,Dar es Salaam,6,0,1,6,2,25.31,HIGH_RISK
+RTE-BE75B5F4,Mumbai Port,Addis Ababa,Dar es Salaam,5,1,0,5,4,24.62,RECURRING
+RTE-F534A60F,Kochi Port,Kuala Lumpur,Durban,5,0,0,5,3,22.67,HIGH_RISK
+RTE-EF6F0110,Visakhapatnam,Aden,Mombasa,6,0,1,6,3,21.26,RECURRING
+RTE-674B55E3,Chennai Port,Dubai,Dar es Salaam,5,0,0,5,2,20.42,RECURRING
+RTE-D5B7DEF5,Visakhapatnam,Bangkok,Durban,5,0,0,5,2,19.97,RECURRING
+RTE-5CFE009F,Visakhapatnam,Addis Ababa,Dar es Salaam,5,0,0,5,4,19.52,RECURRING
+RTE-01273A62,Visakhapatnam,Muscat,Mombasa,5,0,2,5,3,18.32,RECURRING
+RTE-4424DBF1,Kochi Port,Port Louis,Dar es Salaam,5,0,1,5,3,16.82,RECURRING

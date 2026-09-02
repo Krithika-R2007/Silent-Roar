@@ -1,0 +1,131 @@
+actor_id,full_name,alias,nationality,role,primary_region,threat_score
+ACT-DB3AAE2B,Allison Hill,A. Hill,Indian,Broker,Tamil Nadu,41
+ACT-5BCEA423,Noah Rhodes,Noah Rho.,Indian,Collector,Kerala,96
+ACT-A9210483,Angie Henderson,A. Henderson,Indian,Buyer,West Bengal,64
+ACT-20D0E245,Daniel Wagner,D. Wagner,Indian,Collector,Tamil Nadu,37
+ACT-8A3A138F,Cristian Santos,C. Santos,Indian,Buyer,Kerala,35
+ACT-F20CA79B,Connie Lawrence,Lawrence Connie,Indian,Transporter,West Bengal,67
+ACT-2AF63B3F,Abigail Shaffer,Abigail S.,Indian,Collector,West Bengal,30
+ACT-16E31CC7,Gina Moore,Gina M.,Indian,Broker,Maharashtra,29
+ACT-1D7B2448,Gabrielle Davis,Gabrielle D.,Indian,Collector,Kerala,21
+ACT-EBD0B65D,Ryan Munoz,R. Munoz,Indian,Broker,Maharashtra,92
+ACT-C1CE62FB,Monica Herrera,Monica H.,Indian,Collector,West Bengal,68
+ACT-451B57E0,Jamie Arnold,J. Arnold,Indian,Exporter,West Bengal,20
+ACT-F73F1F34,Lisa Hensley,Lisa H.,Indian,Buyer,West Bengal,56
+ACT-BA821236,Michele Williams,Michele Wil.,Indian,Collector,West Bengal,15
+ACT-0270A250,Dylan Miller,Dylan M.,Indian,Collector,Kerala,39
+ACT-3B25DA0A,Brian Ramirez,Ramirez Brian,Indian,Broker,Tamil Nadu,68
+ACT-28E1066F,Holly Wood,Holly Woo.,Indian,Broker,Andhra Pradesh,55
+ACT-C8A0BC45,Derek Zuniga,Derek Z.,Indian,Collector,Kerala,87
+ACT-71CD333C,Lisa Jackson,Lisa Jac.,Indian,Transporter,Kerala,69
+ACT-BEF7869A,Carla Gray,Carla G.,Indian,Buyer,Maharashtra,38
+ACT-7A15D23A,Margaret Hawkins DDS,M. Hawkins DDS,Indian,Transporter,Andhra Pradesh,14
+ACT-2D0BDD94,Patty Perez,Perez Patty,Indian,Broker,Andhra Pradesh,18
+ACT-157A0D7D,Ethan Adams,Ethan A.,Indian,Transporter,Kerala,93
+ACT-F0092B27,Tommy Walter,Walter Tommy,Indian,Exporter,Maharashtra,28
+ACT-5535B8FF,Matthew Foster,Matthew Fos.,Indian,Transporter,Andhra Pradesh,98
+ACT-0D3A69A7,Judy Baker,Judy B.,Indian,Buyer,West Bengal,64
+ACT-3EC2CAB2,Justin Baker,Baker Justin,Indian,Broker,West Bengal,38
+ACT-E039AAEB,Stephanie Ross,Ross Stephanie,Indian,Collector,Kerala,16
+ACT-A3B509D1,Zachary Hicks,Zachary Hic.,Indian,Transporter,Tamil Nadu,97
+ACT-F70E04EC,Anthony Rodriguez,A. Rodriguez,Indian,Exporter,Maharashtra,58
+ACT-F134FC9B,Rebecca Henderson,Henderson Rebecca,Indian,Buyer,West Bengal,42
+ACT-95A4317F,James Ferrell,J. Ferrell,Indian,Collector,West Bengal,97
+ACT-2DA4F2E3,Tricia Valencia,Tricia V.,Indian,Broker,West Bengal,24
+ACT-61CA522C,Nathan Maldonado,Maldonado Nathan,Indian,Transporter,Andhra Pradesh,68
+ACT-1DF99FFB,Debra Davidson,Debra D.,Indian,Buyer,Tamil Nadu,32
+ACT-6F081E40,Jeffrey Chavez,J. Chavez,Indian,Broker,West Bengal,91
+ACT-866A9666,Sherri Baker,Sherri Bak.,Indian,Transporter,West Bengal,57
+ACT-7187AEBF,Cassandra Gaines,C. Gaines,Indian,Buyer,Kerala,51
+ACT-74B10513,Elizabeth Fowler,E. Fowler,Indian,Collector,Maharashtra,56
+ACT-ADB13586,Brittany Farmer,Brittany Far.,Indian,Collector,Andhra Pradesh,40
+ACT-C246476B,Paula Moreno,P. Moreno,Indian,Collector,West Bengal,72
+ACT-EA441661,Fred Smith,Fred Smi.,Indian,Transporter,Tamil Nadu,94
+ACT-CAA8911E,Sherry Decker,Sherry Dec.,Indian,Broker,Maharashtra,77
+ACT-9DC49715,Anthony Humphrey,Humphrey Anthony,Indian,Transporter,West Bengal,79
+ACT-2F205955,Angelica Tucker,Angelica T.,Indian,Exporter,Kerala,95
+ACT-B62E0FB9,Philip Cannon,Cannon Philip,Indian,Buyer,Andhra Pradesh,67
+ACT-239810D5,John Pierce,John Pie.,Indian,Transporter,Tamil Nadu,18
+ACT-FDE9DAFE,Shane Henderson,S. Henderson,Indian,Buyer,Andhra Pradesh,80
+ACT-898A30A1,Joshua Blair,Joshua Bla.,Indian,Collector,Kerala,19
+ACT-4B53C901,Eric Carney,Eric Car.,Indian,Collector,Tamil Nadu,83
+ACT-76F7BDE8,Jessica Holmes,J. Holmes,Kenyan,Buyer,Somalia,40
+ACT-9FA63766,Danny Morgan,Morgan Danny,Kenyan,Transporter,Uganda,75
+ACT-46D85523,Crystal Robinson,Robinson Crystal,Kenyan,Transporter,Mozambique,70
+ACT-A7290540,Mark Perez,Mark Per.,Kenyan,Collector,Rwanda,98
+ACT-0137B6D6,Shannon Jones,Shannon J.,Kenyan,Exporter,Rwanda,62
+ACT-1D992B5E,Michael Lewis,M. Lewis,Kenyan,Collector,Ethiopia,17
+ACT-CA6408EB,Timothy Duncan,Timothy D.,Kenyan,Collector,Rwanda,41
+ACT-DBBBE5BC,Richard Aguirre,Richard Agu.,Kenyan,Buyer,South Africa,67
+ACT-001930AF,Brent Jordan,Jordan Brent,Kenyan,Transporter,Mozambique,70
+ACT-8D60BEB9,John Daniel,John Dan.,Kenyan,Collector,Ethiopia,66
+ACT-4A810E54,Victoria Garcia,V. Garcia,Kenyan,Buyer,Tanzania,11
+ACT-F513E9F2,Gerald Hensley,Gerald Hen.,Kenyan,Transporter,Tanzania,62
+ACT-6AB623B4,Connor West,West Connor,Kenyan,Transporter,Ethiopia,61
+ACT-3FD962A7,Donald Wright,Donald Wri.,Kenyan,Exporter,Kenya,77
+ACT-2BB3216C,Jessica Callahan,Jessica C.,Tanzanian,Exporter,Rwanda,46
+ACT-B49444A6,Amber Kidd,Kidd Amber,Tanzanian,Transporter,Rwanda,34
+ACT-8F24BB27,Tracy House,Tracy Hou.,Tanzanian,Collector,Uganda,84
+ACT-6C2A62E9,Carol Tucker,Carol T.,Tanzanian,Collector,Kenya,16
+ACT-D4295B58,James Brown,James Bro.,Tanzanian,Collector,Ethiopia,75
+ACT-7353F8D0,William Baker,William Bak.,Tanzanian,Collector,Tanzania,86
+ACT-5B9A50EE,Jordan Henderson,Jordan Hen.,Tanzanian,Exporter,Tanzania,25
+ACT-020A968E,Whitney Peters,W. Peters,Tanzanian,Buyer,South Africa,20
+ACT-4C5661F3,Brittney Phillips,Brittney P.,Tanzanian,Broker,Rwanda,36
+ACT-516B220E,Lauren Daniels,Lauren Dan.,Tanzanian,Broker,Somalia,94
+ACT-024E3B6A,Amy Silva,Amy S.,Tanzanian,Exporter,Mozambique,50
+ACT-40058B0F,Sarah Moore,S. Moore,Tanzanian,Exporter,Tanzania,89
+ACT-6E321CE4,Angela Lopez,A. Lopez,Tanzanian,Buyer,Tanzania,37
+ACT-525CFB31,Megan Young,Megan You.,Tanzanian,Broker,Uganda,18
+ACT-D2CB78D6,Steve Sanchez,Steve S.,Mozambican,Broker,South Africa,77
+ACT-9150A102,Lisa Barnes,Lisa B.,Mozambican,Buyer,Ethiopia,93
+ACT-7494AE24,Kelly Donovan,Kelly D.,Mozambican,Collector,Kenya,97
+ACT-0DD6E664,Mike Allen,M. Allen,Mozambican,Collector,Uganda,80
+ACT-34C1CDB5,Michael Evans,Michael E.,Mozambican,Broker,Mozambique,87
+ACT-A19B3B13,Paul Jones,Paul J.,Mozambican,Transporter,South Africa,97
+ACT-A05EB96B,Zachary Ferrell,Ferrell Zachary,Mozambican,Broker,Uganda,16
+ACT-F8FB00AA,Daniel Baker,Baker Daniel,Mozambican,Broker,Tanzania,15
+ACT-6890BAC6,Shirley Suarez,Shirley S.,Mozambican,Transporter,Kenya,91
+ACT-1B6D6C5C,Christopher Bass,Christopher Bas.,Mozambican,Exporter,Uganda,80
+ACT-4DBAB638,Lisa Archer,L. Archer,Mozambican,Collector,Rwanda,19
+ACT-45C722DA,Aimee Montoya,A. Montoya,Mozambican,Broker,Mozambique,94
+ACT-A647D8DE,Matthew Mcmillan,Mcmillan Matthew,South African,Transporter,Mozambique,15
+ACT-CFAB48FB,Brian Rodriguez,Brian R.,South African,Collector,Uganda,73
+ACT-01EA26A9,Denise Jacobs,Denise Jac.,South African,Collector,South Africa,55
+ACT-EB994163,Christina Walters,Christina Wal.,South African,Transporter,Rwanda,30
+ACT-130BC3BE,John Whitehead,Whitehead John,South African,Collector,Mozambique,32
+ACT-FD05814E,Anna Henderson,Henderson Anna,South African,Transporter,Somalia,44
+ACT-83FE0258,Aaron Wise,A. Wise,South African,Exporter,Mozambique,14
+ACT-ADF3339E,Deborah Figueroa,Deborah Fig.,South African,Transporter,Ethiopia,68
+ACT-A9F1176D,Jessica Smith,Jessica S.,South African,Transporter,Somalia,90
+ACT-A8B80500,Stephen Mckee,Stephen Mck.,South African,Exporter,Kenya,52
+ACT-D4BFC62A,Sandra Aguilar,S. Aguilar,South African,Broker,Uganda,54
+ACT-D404B1E6,Cameron Parker,Cameron P.,South African,Collector,Rwanda,24
+ACT-72D14581,Rebecca Valencia,Rebecca Val.,Ugandan,Buyer,Uganda,43
+ACT-8AF11CFA,Christine Wright,C. Wright,Ugandan,Buyer,Kenya,65
+ACT-0E08ABDD,Richard Henson,Richard H.,Ugandan,Exporter,Somalia,87
+ACT-93684B5D,Marc Moore,Moore Marc,Ugandan,Buyer,Tanzania,34
+ACT-802FEC44,Sharon Cherry,S. Cherry,Ugandan,Exporter,Uganda,10
+ACT-B1A0AF66,Sierra Johnson,Sierra J.,Ugandan,Exporter,South Africa,18
+ACT-F702EB53,Evelyn Galvan,Evelyn G.,Ugandan,Collector,Somalia,74
+ACT-9A97A853,Sharon Cochran,Cochran Sharon,Ugandan,Broker,Uganda,61
+ACT-BF767554,Richard Rodriguez,Richard Rod.,Ugandan,Transporter,Uganda,63
+ACT-6C6CC66E,Shannon Walker,Shannon Wal.,Ugandan,Buyer,Rwanda,82
+ACT-99F0286C,Julia Torres,Torres Julia,Somali,Buyer,Uganda,10
+ACT-DD3ED62E,Crystal Johnson,Crystal J.,Somali,Transporter,Uganda,94
+ACT-BDA5B9AD,Garrett Lin,Lin Garrett,Somali,Exporter,Somalia,66
+ACT-DC4BFFE4,Diana May,May Diana,Somali,Transporter,South Africa,94
+ACT-0BE618C7,William Herrera,William H.,Somali,Buyer,Tanzania,94
+ACT-480A6546,Ashley Waller,A. Waller,Somali,Transporter,Somalia,96
+ACT-C48421F9,Victor Baker,Victor Bak.,Somali,Transporter,Uganda,28
+ACT-54264291,Jeffrey Chandler,J. Chandler,Somali,Transporter,Kenya,70
+ACT-DUP-0001,Ambar Kidd,A. Kidd,Mozambican,Exporter,South Africa,97
+ACT-DUP-0002,Kidd Amber,Kidd A.,Mozambican,Exporter,South Africa,94
+ACT-DUP-0003,Zackary Hicks,Zackary H.,Indian,Transporter,Tamil Nadu,88
+ACT-DUP-0004,Zachary Hix,Z. Hix,Indian,Transporter,Tamil Nadu,91
+ACT-DUP-0005,Carol Tukker,Carol Tuk.,Mozambican,Collector,Mozambique,82
+ACT-DUP-0006,Carrol Tucker,C. Tucker,Mozambican,Collector,Mozambique,85
+ACT-DUP-0007,Fred Smyth,F. Smyth,Kenyan,Transporter,Kenya,91
+ACT-DUP-0008,Frederick Smith,Fred S.,Kenyan,Transporter,Kenya,88
+ACT-DUP-0009,Victoria Gracia,V. Gracia,Mozambican,Collector,Uganda,80
+ACT-DUP-0010,Victoriya Garcia,Garcia V.,Mozambican,Collector,Uganda,83

@@ -1,0 +1,61 @@
+route_id,source,transit,destination,corridor,historical_risk
+RTE-F51C2F2E,Chennai Port,Colombo,Mombasa,Chennai-Mombasa,90
+RTE-D37D6F20,Kochi Port,Aden,Dar es Salaam,Kochi-DarEsSalaam,95
+RTE-15641305,Tuticorin Port,Colombo,Maputo,Tuticorin-Maputo,87
+RTE-5A090E6C,Mumbai Port,Dubai,Durban,Mumbai-Durban,81
+RTE-32F0E94F,Visakhapatnam,Singapore,Mombasa,Vizag-Mombasa,79
+RTE-05837773,Chennai Port,Kuala Lumpur,Dar es Salaam,Chennai-DarEsSalaam,66
+RTE-844D2BD8,Kochi Port,Dubai,Maputo,Kochi-Maputo,82
+RTE-3BE0D749,Tuticorin Port,Singapore,Durban,Tuticorin-Durban,72
+RTE-FB4EE4BA,Mumbai Port,Aden,Mombasa,Mumbai-Mombasa,94
+RTE-CB7E8B4C,Visakhapatnam,Bangkok,Dar es Salaam,Vizag-DarEsSalaam,92
+RTE-A842284A,Chennai Port,Singapore,Durban,Chennai-Durban-Singapore,79
+RTE-657F736F,Visakhapatnam,Addis Ababa,Maputo,Visakhapatnam-Maputo-Addis,84
+RTE-857F6451,Mumbai Port,Singapore,Durban,Mumbai-Durban-Singapore,80
+RTE-DD5236CF,Mumbai Port,Bangkok,Maputo,Mumbai-Maputo-Bangkok,55
+RTE-D5B7DEF5,Visakhapatnam,Bangkok,Durban,Visakhapatnam-Durban-Bangkok,55
+RTE-BEF74FCD,Mumbai Port,Kuala Lumpur,Mombasa,Mumbai-Mombasa-Kuala,50
+RTE-83C30583,Kochi Port,Aden,Maputo,Kochi-Maputo-Aden,30
+RTE-50CAC933,Tuticorin Port,Bangkok,Dar es Salaam,Tuticorin-DaresSalaam-Bangkok,69
+RTE-526A517F,Tuticorin Port,Dubai,Dar es Salaam,Tuticorin-DaresSalaam-Dubai,73
+RTE-D769322C,Mumbai Port,Muscat,Maputo,Mumbai-Maputo-Muscat,79
+RTE-A6BAB08D,Mumbai Port,Bangkok,Mombasa,Mumbai-Mombasa-Bangkok,73
+RTE-B4DC47C9,Mumbai Port,Port Louis,Mombasa,Mumbai-Mombasa-Port,68
+RTE-F2391A9E,Mumbai Port,Aden,Mombasa,Mumbai-Mombasa-Aden,58
+RTE-B7844562,Mumbai Port,Muscat,Durban,Mumbai-Durban-Muscat,48
+RTE-8F0A4EBD,Mumbai Port,Kuala Lumpur,Dar es Salaam,Mumbai-DaresSalaam-Kuala,75
+RTE-27682144,Mumbai Port,Nairobi (Air),Mombasa,Mumbai-Mombasa-Nairobi,63
+RTE-BE75B5F4,Mumbai Port,Addis Ababa,Dar es Salaam,Mumbai-DaresSalaam-Addis,36
+RTE-842CC51F,Visakhapatnam,Nairobi (Air),Mombasa,Visakhapatnam-Mombasa-Nairobi,23
+RTE-4B8AC9E4,Chennai Port,Singapore,Durban,Chennai-Durban-Singapore,79
+RTE-C3C4BB2E,Tuticorin Port,Kuala Lumpur,Mombasa,Tuticorin-Mombasa-Kuala,68
+RTE-9EC78713,Kochi Port,Addis Ababa,Dar es Salaam,Kochi-DaresSalaam-Addis,61
+RTE-F534A60F,Kochi Port,Kuala Lumpur,Durban,Kochi-Durban-Kuala,73
+RTE-5B12885C,Kochi Port,Addis Ababa,Mombasa,Kochi-Mombasa-Addis,22
+RTE-EF6F0110,Visakhapatnam,Aden,Mombasa,Visakhapatnam-Mombasa-Aden,48
+RTE-FDDFEF85,Chennai Port,Colombo,Mombasa,Chennai-Mombasa-Colombo,51
+RTE-367D804C,Tuticorin Port,Port Louis,Mombasa,Tuticorin-Mombasa-Port,39
+RTE-BFA90C2B,Tuticorin Port,Addis Ababa,Dar es Salaam,Tuticorin-DaresSalaam-Addis,34
+RTE-5CFE009F,Visakhapatnam,Addis Ababa,Dar es Salaam,Visakhapatnam-DaresSalaam-Addis,52
+RTE-4424DBF1,Kochi Port,Port Louis,Dar es Salaam,Kochi-DaresSalaam-Port,34
+RTE-6502C0EF,Tuticorin Port,Dubai,Maputo,Tuticorin-Maputo-Dubai,23
+RTE-EFEFC83E,Kochi Port,Nairobi (Air),Durban,Kochi-Durban-Nairobi,45
+RTE-674B55E3,Chennai Port,Dubai,Dar es Salaam,Chennai-DaresSalaam-Dubai,58
+RTE-837DA83F,Visakhapatnam,Port Louis,Mombasa,Visakhapatnam-Mombasa-Port,25
+RTE-15E430E6,Kochi Port,Aden,Durban,Kochi-Durban-Aden,28
+RTE-E5F5E120,Visakhapatnam,Colombo,Maputo,Visakhapatnam-Maputo-Colombo,73
+RTE-378A7DE2,Mumbai Port,Nairobi (Air),Mombasa,Mumbai-Mombasa-Nairobi,66
+RTE-B4CA579B,Mumbai Port,Nairobi (Air),Dar es Salaam,Mumbai-DaresSalaam-Nairobi,42
+RTE-3623DB4A,Visakhapatnam,Port Louis,Maputo,Visakhapatnam-Maputo-Port,81
+RTE-7C3E668E,Mumbai Port,Port Louis,Durban,Mumbai-Durban-Port,54
+RTE-A9A64DEE,Kochi Port,Dubai,Dar es Salaam,Kochi-DaresSalaam-Dubai,55
+RTE-15AFBAC8,Mumbai Port,Addis Ababa,Dar es Salaam,Mumbai-DaresSalaam-Addis,68
+RTE-C146AD8A,Kochi Port,Addis Ababa,Mombasa,Kochi-Mombasa-Addis,61
+RTE-68716855,Tuticorin Port,Bangkok,Durban,Tuticorin-Durban-Bangkok,65
+RTE-E316C151,Kochi Port,Kuala Lumpur,Maputo,Kochi-Maputo-Kuala,55
+RTE-01273A62,Visakhapatnam,Muscat,Mombasa,Visakhapatnam-Mombasa-Muscat,44
+RTE-22651175,Chennai Port,Nairobi (Air),Dar es Salaam,Chennai-DaresSalaam-Nairobi,82
+RTE-B5BE3EA8,Visakhapatnam,Addis Ababa,Dar es Salaam,Visakhapatnam-DaresSalaam-Addis,82
+RTE-EA4FA88B,Mumbai Port,Dubai,Mombasa,Mumbai-Mombasa-Dubai,57
+RTE-12678A58,Tuticorin Port,Bangkok,Durban,Tuticorin-Durban-Bangkok,59
+RTE-5A7B190F,Visakhapatnam,Addis Ababa,Maputo,Visakhapatnam-Maputo-Addis,64

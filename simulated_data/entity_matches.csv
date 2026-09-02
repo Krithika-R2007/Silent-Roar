@@ -1,0 +1,82 @@
+actor_1,actor_2,confidence_score,confidence_level,matched_features
+ACT-A3B509D1,ACT-DUP-0003,93.28,High Confidence,"Similar name (92%); Similar alias (81%); Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Visakhapatnam–Mombasa, Chennai Port–Mombasa)"
+ACT-DUP-0009,ACT-DUP-0010,87.24,High Confidence,"Similar name (90%); Same nationality (Mozambican); Same region (Uganda); Shared corridor (Kochi Port–Maputo, Chennai Port–Mombasa)"
+ACT-DUP-0005,ACT-DUP-0006,85.73,High Confidence,"Similar name (88%); Same nationality (Mozambican); Same region (Mozambique); Shared corridor (Kochi Port–Dar es Salaam, Mumbai Port–Durban)"
+ACT-A3B509D1,ACT-DUP-0004,82.22,High Confidence,"Similar name (83%); Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Visakhapatnam–Mombasa, Chennai Port–Mombasa)"
+ACT-DUP-0003,ACT-DUP-0004,77.5,Possible Match,"Similar name (75%); Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Chennai Port–Mombasa, Visakhapatnam–Mombasa)"
+ACT-DUP-0007,ACT-DUP-0008,76.8,Possible Match,"Similar name (72%); Same nationality (Kenyan); Same region (Kenya); Shared corridor (Chennai Port–Mombasa, Kochi Port–Dar es Salaam)"
+ACT-7353F8D0,ACT-0BE618C7,74.93,Possible Match,Similar name (71%); Similar alias (81%); Same region (Tanzania); Shared corridor (Mumbai Port–Dar es Salaam)
+ACT-0D3A69A7,ACT-3EC2CAB2,73.3,Possible Match,Similar name (72%); Same nationality (Indian); Same region (West Bengal); Shared corridor (Kochi Port–Maputo)
+ACT-3EC2CAB2,ACT-866A9666,71.89,Possible Match,Similar name (66%); Same nationality (Indian); Same region (West Bengal); Shared corridor (Kochi Port–Maputo)
+ACT-C1CE62FB,ACT-F73F1F34,70.96,Possible Match,Similar alias (62%); Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-4A810E54,ACT-DUP-0009,70.11,Possible Match,"Similar name (93%); Similar alias (88%); Shared corridor (Kochi Port–Maputo, Tuticorin Port–Maputo)"
+ACT-6C2A62E9,ACT-DUP-0005,69.45,Possible Match,"Similar name (91%); Similar alias (88%); Shared corridor (Kochi Port–Dar es Salaam, Tuticorin Port–Maputo)"
+ACT-0D3A69A7,ACT-866A9666,68.49,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Kochi Port–Maputo)
+ACT-C1CE62FB,ACT-BA821236,68.19,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Kochi Port–Durban)
+ACT-71CD333C,ACT-2F205955,67.78,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Tuticorin Port–Maputo)
+ACT-A9210483,ACT-F20CA79B,67.56,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-DUP-0001,ACT-DUP-0002,67.43,Possible Match,"Same nationality (Mozambican); Same region (South Africa); Shared corridor (Kochi Port–Dar es Salaam, Mumbai Port–Durban)"
+ACT-4A810E54,ACT-DUP-0010,67.04,Possible Match,"Similar name (96%); Similar alias (66%); Shared corridor (Kochi Port–Maputo, Chennai Port–Dar es Salaam)"
+ACT-866A9666,ACT-CAA8911E,66.53,Possible Match,Similar name (72%); Similar alias (63%); Same nationality (Indian); Shared corridor (Kochi Port–Maputo)
+ACT-157A0D7D,ACT-E039AAEB,66.47,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Chennai Port–Mombasa)
+ACT-EB994163,ACT-D404B1E6,66.39,Possible Match,Same nationality (South African); Same region (Rwanda); Shared corridor (Tuticorin Port–Maputo)
+ACT-8A3A138F,ACT-E039AAEB,66.27,Possible Match,"Same nationality (Indian); Same region (Kerala); Shared corridor (Chennai Port–Mombasa, Tuticorin Port–Maputo)"
+ACT-34C1CDB5,ACT-DUP-0005,66.0,Possible Match,Same nationality (Mozambican); Same region (Mozambique); Shared corridor (Tuticorin Port–Maputo)
+ACT-130BC3BE,ACT-83FE0258,65.71,Possible Match,"Same nationality (South African); Same region (Mozambique); Shared corridor (Kochi Port–Maputo, Mumbai Port–Mombasa)"
+ACT-3B25DA0A,ACT-1DF99FFB,65.4,Possible Match,Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Visakhapatnam–Mombasa)
+ACT-A9210483,ACT-451B57E0,65.4,Possible Match,"Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa, Visakhapatnam–Durban)"
+ACT-2D0BDD94,ACT-ADB13586,65.13,Possible Match,"Same nationality (Indian); Same region (Andhra Pradesh); Shared corridor (Kochi Port–Dar es Salaam, Chennai Port–Dar es Salaam)"
+ACT-A9210483,ACT-C1CE62FB,65.02,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-A9210483,ACT-F134FC9B,64.91,Possible Match,Similar name (68%); Similar alias (62%); Same nationality (Indian); Same region (West Bengal)
+ACT-0E08ABDD,ACT-BF767554,64.59,Possible Match,Similar alias (81%); Same nationality (Ugandan); Shared corridor (Chennai Port–Mombasa)
+ACT-EA441661,ACT-DUP-0008,64.5,Possible Match,Similar name (80%); Similar alias (87%); Shared corridor (Mumbai Port–Durban)
+ACT-C1CE62FB,ACT-866A9666,64.46,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-2D0BDD94,ACT-5535B8FF,64.42,Possible Match,"Same nationality (Indian); Same region (Andhra Pradesh); Shared corridor (Kochi Port–Dar es Salaam, Chennai Port–Mombasa)"
+ACT-A9210483,ACT-C246476B,64.33,Possible Match,"Same nationality (Indian); Same region (West Bengal); Shared corridor (Tuticorin Port–Mombasa, Visakhapatnam–Mombasa)"
+ACT-2AF63B3F,ACT-F73F1F34,64.22,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Tuticorin Port–Durban)
+ACT-A9210483,ACT-2AF63B3F,64.12,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-A9210483,ACT-F73F1F34,64.1,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-71CD333C,ACT-898A30A1,63.33,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Mumbai Port–Dar es Salaam)
+ACT-0270A250,ACT-2F205955,63.23,Possible Match,"Same nationality (Indian); Same region (Kerala); Shared corridor (Mumbai Port–Mombasa, Tuticorin Port–Maputo)"
+ACT-CFAB48FB,ACT-D4BFC62A,63.22,Possible Match,Same nationality (South African); Same region (Uganda); Shared corridor (Tuticorin Port–Maputo)
+ACT-8A3A138F,ACT-157A0D7D,63.17,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Chennai Port–Mombasa)
+ACT-A9210483,ACT-FDE9DAFE,63.0,Possible Match,Similar name (86%); Similar alias (91%); Same nationality (Indian)
+ACT-E039AAEB,ACT-7187AEBF,62.96,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Chennai Port–Mombasa)
+ACT-EBD0B65D,ACT-F70E04EC,62.81,Possible Match,"Same nationality (Indian); Same region (Maharashtra); Shared corridor (Kochi Port–Maputo, Mumbai Port–Mombasa)"
+ACT-2DA4F2E3,ACT-866A9666,62.81,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Kochi Port–Durban)
+ACT-451B57E0,ACT-3EC2CAB2,62.38,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Tuticorin Port–Durban)
+ACT-F134FC9B,ACT-866A9666,62.36,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Kochi Port–Dar es Salaam)
+ACT-C246476B,ACT-9DC49715,62.29,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Tuticorin Port–Mombasa)
+ACT-8A3A138F,ACT-71CD333C,62.22,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Tuticorin Port–Maputo)
+ACT-F70E04EC,ACT-74B10513,62.17,Possible Match,Same nationality (Indian); Same region (Maharashtra); Shared corridor (Kochi Port–Maputo)
+ACT-A9210483,ACT-FD05814E,61.95,Possible Match,"Similar name (82%); Similar alias (69%); Shared corridor (Visakhapatnam–Mombasa, Visakhapatnam–Mombasa)"
+ACT-FDE9DAFE,ACT-FD05814E,61.95,Possible Match,Similar name (82%); Similar alias (69%); Shared corridor (Chennai Port–Mombasa)
+ACT-20D0E245,ACT-1DF99FFB,61.87,Possible Match,Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Chennai Port–Dar es Salaam)
+ACT-34C1CDB5,ACT-DUP-0006,61.7,Possible Match,Same nationality (Mozambican); Same region (Mozambique); Shared corridor (Tuticorin Port–Maputo)
+ACT-802FEC44,ACT-9A97A853,61.59,Possible Match,Similar name (74%); Same nationality (Ugandan); Same region (Uganda)
+ACT-F20CA79B,ACT-C1CE62FB,61.55,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-F20CA79B,ACT-C246476B,61.48,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-46D85523,ACT-001930AF,61.43,Possible Match,Same nationality (Kenyan); Same region (Mozambique); Shared corridor (Kochi Port–Dar es Salaam)
+ACT-EB994163,ACT-6C6CC66E,61.42,Possible Match,Same region (Rwanda); Shared corridor (Mumbai Port–Maputo)
+ACT-F513E9F2,ACT-5B9A50EE,61.4,Possible Match,Similar alias (63%); Same region (Tanzania); Shared corridor (Mumbai Port–Durban)
+ACT-1D7B2448,ACT-157A0D7D,61.38,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Kochi Port–Maputo)
+ACT-16E31CC7,ACT-EBD0B65D,61.33,Possible Match,"Same nationality (Indian); Same region (Maharashtra); Shared corridor (Kochi Port–Maputo, Chennai Port–Dar es Salaam)"
+ACT-5BCEA423,ACT-E039AAEB,61.22,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Tuticorin Port–Maputo)
+ACT-451B57E0,ACT-6F081E40,61.2,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Durban)
+ACT-3B25DA0A,ACT-EA441661,61.18,Possible Match,Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Visakhapatnam–Mombasa)
+ACT-A3B509D1,ACT-239810D5,60.95,Possible Match,Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Mumbai Port–Mombasa)
+ACT-20D0E245,ACT-3B25DA0A,60.83,Possible Match,Same nationality (Indian); Same region (Tamil Nadu); Shared corridor (Chennai Port–Mombasa)
+ACT-C1CE62FB,ACT-9DC49715,60.8,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Tuticorin Port–Maputo)
+ACT-61CA522C,ACT-B62E0FB9,60.69,Possible Match,Same nationality (Indian); Same region (Andhra Pradesh); Shared corridor (Tuticorin Port–Maputo)
+ACT-6C2A62E9,ACT-DUP-0006,60.46,Possible Match,"Similar name (96%); Shared corridor (Chennai Port–Dar es Salaam, Kochi Port–Dar es Salaam)"
+ACT-72D14581,ACT-BF767554,60.45,Possible Match,Same nationality (Ugandan); Same region (Uganda); Shared corridor (Tuticorin Port–Mombasa)
+ACT-EA441661,ACT-DUP-0007,60.41,Possible Match,"Similar name (90%); Shared corridor (Visakhapatnam–Mombasa, Mumbai Port–Durban)"
+ACT-B49444A6,ACT-DUP-0001,60.41,Possible Match,Similar name (90%); Shared corridor (Chennai Port–Mombasa)
+ACT-5BCEA423,ACT-2F205955,60.31,Possible Match,Same nationality (Indian); Same region (Kerala); Shared corridor (Tuticorin Port–Maputo)
+ACT-F20CA79B,ACT-F73F1F34,60.26,Possible Match,Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa)
+ACT-3FD962A7,ACT-8AF11CFA,60.07,Possible Match,"Same region (Kenya); Shared corridor (Visakhapatnam–Mombasa, Chennai Port–Dar es Salaam)"
+ACT-A9210483,ACT-9DC49715,60.04,Possible Match,"Same nationality (Indian); Same region (West Bengal); Shared corridor (Tuticorin Port–Mombasa, Visakhapatnam–Durban)"
+ACT-F73F1F34,ACT-71CD333C,60.0,Possible Match,"Similar alias (75%); Same nationality (Indian); Shared corridor (Tuticorin Port–Durban, Tuticorin Port–Maputo)"
+ACT-16E31CC7,ACT-BEF7869A,60.0,Possible Match,Same nationality (Indian); Same region (Maharashtra); Shared corridor (Tuticorin Port–Dar es Salaam)
+ACT-F73F1F34,ACT-866A9666,60.0,Possible Match,"Same nationality (Indian); Same region (West Bengal); Shared corridor (Visakhapatnam–Mombasa, Kochi Port–Dar es Salaam)"
+ACT-A19B3B13,ACT-B1A0AF66,60.0,Possible Match,"Same region (South Africa); Shared corridor (Mumbai Port–Mombasa, Kochi Port–Dar es Salaam)"

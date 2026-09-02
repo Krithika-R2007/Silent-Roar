@@ -1,0 +1,166 @@
+rank,target_type,target_id,priority,risk_score,confidence,title,summary
+1,ROUTE,RTE-F51C2F2E,IMMEDIATE,81.64,81.67,Critical Trafficking Corridor,This route shows a high-risk pattern (score 81.
+2,ROUTE,RTE-15641305,IMMEDIATE,80.86,81.77,Critical Trafficking Corridor,This route shows a high-risk pattern (score 80.
+3,LOCATION,Mombasa,HIGH,78.04,84.59,Strategic Trafficking Hub,This location shows a high-risk pattern (score 78.
+4,ROUTE,RTE-844D2BD8,HIGH,73.56,82.88,High-Activity Transport Route,This route shows a high-risk pattern (score 73.
+5,LOCATION,Mumbai Port,HIGH,72.98,82.88,Active Transit Location,This location shows a high-risk pattern (score 73.
+6,LOCATION,Kochi Port,HIGH,72.73,80.62,Active Transit Location,This location shows a high-risk pattern (score 72.
+7,ROUTE,RTE-D37D6F20,HIGH,71.28,80.84,High-Activity Transport Route,This route shows a high-risk pattern (score 71.
+8,LOCATION,Maputo,HIGH,71.05,76.45,Active Transit Location,This location shows a high-risk pattern (score 71.
+9,INCIDENT,INC-C34BD297,HIGH,70.22,75.7,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 70.
+10,INCIDENT,INC-EEE150DB,HIGH,70.22,75.7,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 70.
+11,INCIDENT,INC-E52BE33F,HIGH,70.06,78.19,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 70.
+12,ACTOR,ACT-DUP-0007,HIGH,70.01,80.32,High-Risk Broker Network,This actor shows a high-risk pattern (score 70.
+13,LOCATION,Dar es Salaam,HIGH,69.02,82.79,Active Transit Location,This location shows a high-risk pattern (score 69.
+14,ACTOR,ACT-DUP-0002,HIGH,68.59,79.32,High-Risk Broker Network,This actor shows a high-risk pattern (score 68.
+15,ROUTE,RTE-5A090E6C,HIGH,67.91,81.02,High-Activity Transport Route,This route shows a high-risk pattern (score 67.
+16,INCIDENT,INC-D10E4C8F,HIGH,66.61,73.35,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 66.
+17,INCIDENT,INC-60F32002,HIGH,66.5,79.12,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 66.
+18,LOCATION,Tuticorin Port,HIGH,66.21,75.78,Active Transit Location,This location shows a high-risk pattern (score 66.
+19,INCIDENT,INC-F0F43572,HIGH,65.9,70.65,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 65.
+20,LOCATION,Chennai Port,HIGH,65.84,75.47,Active Transit Location,This location shows a high-risk pattern (score 65.
+21,ACTOR,ACT-DUP-0004,HIGH,65.75,74.52,High-Risk Broker Network,This actor shows a high-risk pattern (score 65.
+22,INCIDENT,INC-2C59B619,HIGH,65.38,73.42,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 65.
+23,INCIDENT,INC-44A7CA78,HIGH,65.38,73.42,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 65.
+24,INCIDENT,INC-60B97CF6,HIGH,65.32,75.08,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 65.
+25,INCIDENT,INC-69DA945D,HIGH,65.32,75.08,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 65.
+26,LOCATION,Visakhapatnam,HIGH,65.31,79.89,Active Transit Location,This location shows a high-risk pattern (score 65.
+27,INCIDENT,INC-B0143C0C,HIGH,65.04,68.88,Coded Commodity Trafficking Event,This incident shows a high-risk pattern (score 65.
+28,INCIDENT,INC-1773DDC0,MONITOR,64.19,71.61,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 64.
+29,LOCATION,Durban,MONITOR,64.17,78.02,Active Transit Location,This location exhibits risk indicators (score 64.
+30,ACTOR,ACT-0BE618C7,MONITOR,63.39,76.51,High-Risk Broker Network,This actor exhibits risk indicators (score 63.
+31,INCIDENT,INC-8946B5F9,MONITOR,63.22,73.67,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 63.
+32,ROUTE,RTE-FB4EE4BA,MONITOR,63.08,82.28,High-Activity Transport Route,This route exhibits risk indicators (score 63.
+33,ACTOR,ACT-DUP-0001,MONITOR,62.26,78.14,High-Risk Broker Network,This actor exhibits risk indicators (score 62.
+34,INCIDENT,INC-35C14236,MONITOR,61.98,68.91,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 62.
+35,INCIDENT,INC-DA76F294,MONITOR,61.86,72.07,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+36,INCIDENT,INC-024F87A5,MONITOR,61.86,72.07,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+37,ACTOR,ACT-EBD0B65D,MONITOR,61.47,77.05,High-Risk Broker Network,This actor exhibits risk indicators (score 61.
+38,INCIDENT,INC-EF857B06,MONITOR,61.32,69.29,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+39,ACTOR,ACT-A19B3B13,MONITOR,61.27,76.2,High-Risk Broker Network,This actor exhibits risk indicators (score 61.
+40,INCIDENT,INC-D7A578CB,MONITOR,61.17,71.19,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+41,INCIDENT,INC-6E06FEF9,MONITOR,61.15,69.65,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+42,INCIDENT,INC-4C54C68E,MONITOR,61.15,69.65,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+43,INCIDENT,INC-431E4BE0,MONITOR,61.12,71.12,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 61.
+44,INCIDENT,INC-403FDB4C,MONITOR,60.46,67.07,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 60.
+45,INCIDENT,INC-4187585A,MONITOR,60.38,71.3,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 60.
+46,INCIDENT,INC-A8E89DAC,MONITOR,60.26,66.59,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 60.
+47,INCIDENT,INC-37FAC3CA,MONITOR,60.15,67.93,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 60.
+48,INCIDENT,INC-30BA3CAE,MONITOR,60.12,69.59,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 60.
+49,INCIDENT,INC-D079FCB9,MONITOR,60.12,73.71,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 60.
+50,INCIDENT,INC-DC1DE291,MONITOR,60.1,73.4,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 60.
+51,INCIDENT,INC-17D6DB38,MONITOR,60.0,67.61,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 60.
+52,INCIDENT,INC-EA003C6C,MONITOR,59.97,70.4,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 60.
+53,INCIDENT,INC-A251BBF1,MONITOR,59.75,75.03,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 59.
+54,INCIDENT,INC-4A1D04B0,MONITOR,59.54,65.8,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 59.
+55,INCIDENT,INC-BE5B30E7,MONITOR,59.47,66.89,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 59.
+56,INCIDENT,INC-43C37A4A,MONITOR,59.44,70.54,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 59.
+57,INCIDENT,INC-01D7FC4F,MONITOR,59.21,72.6,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 59.
+58,ROUTE,RTE-05837773,MONITOR,58.97,75.55,High-Activity Transport Route,This route exhibits risk indicators (score 59.
+59,INCIDENT,INC-2E6A776F,MONITOR,58.9,80.44,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 58.
+60,ACTOR,ACT-5BCEA423,MONITOR,58.89,76.19,High-Risk Broker Network,This actor exhibits risk indicators (score 58.
+61,INCIDENT,INC-7EE564E7,MONITOR,58.63,70.29,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 58.
+62,ACTOR,ACT-2F205955,MONITOR,58.27,73.55,High-Risk Broker Network,This actor exhibits risk indicators (score 58.
+63,INCIDENT,INC-A87B0AD0,MONITOR,58.23,68.97,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 58.
+64,INCIDENT,INC-D3B016C3,MONITOR,58.23,68.97,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 58.
+65,INCIDENT,INC-0BBF9870,MONITOR,58.23,68.97,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 58.
+66,INCIDENT,INC-41438DE4,MONITOR,58.22,66.52,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 58.
+67,INCIDENT,INC-877EF9A7,MONITOR,57.82,67.36,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 57.
+68,ACTOR,ACT-516B220E,MONITOR,57.54,71.81,High-Risk Broker Network,This actor exhibits risk indicators (score 57.
+69,INCIDENT,INC-48A7B2CB,MONITOR,57.42,76.33,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 57.
+70,ACTOR,ACT-6F081E40,MONITOR,57.32,72.75,High-Risk Broker Network,This actor exhibits risk indicators (score 57.
+71,ROUTE,RTE-C3C4BB2E,MONITOR,57.25,75.43,High-Activity Transport Route,This route exhibits risk indicators (score 57.
+72,INCIDENT,INC-94B20477,MONITOR,57.19,66.34,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 57.
+73,INCIDENT,INC-8701EC71,MONITOR,56.93,67.2,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 56.
+74,INCIDENT,INC-17AA367E,MONITOR,56.82,68.58,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 56.
+75,INCIDENT,INC-3B76D32D,MONITOR,56.4,66.6,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 56.
+76,INCIDENT,INC-72CC895D,MONITOR,56.37,75.67,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 56.
+77,INCIDENT,INC-589AB78F,MONITOR,56.36,57.09,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 56.
+78,INCIDENT,INC-3911A5DD,MONITOR,56.23,81.16,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 56.
+79,ACTOR,ACT-7494AE24,MONITOR,55.91,71.37,High-Risk Broker Network,This actor exhibits risk indicators (score 55.
+80,INCIDENT,INC-0900EA33,MONITOR,55.79,54.32,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 55.
+81,INCIDENT,INC-4E49C454,MONITOR,55.5,69.15,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 55.
+82,INCIDENT,INC-6D25D6CE,MONITOR,55.47,63.97,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 55.
+83,ROUTE,RTE-32F0E94F,MONITOR,55.23,69.07,High-Activity Transport Route,This route exhibits risk indicators (score 55.
+84,INCIDENT,INC-822B9C23,MONITOR,55.12,66.5,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 55.
+85,ACTOR,ACT-A7290540,MONITOR,55.07,68.74,High-Risk Broker Network,This actor exhibits risk indicators (score 55.
+86,INCIDENT,INC-BC46527B,MONITOR,54.91,64.63,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+87,INCIDENT,INC-5B989C61,MONITOR,54.86,67.55,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+88,INCIDENT,INC-DABFAEBC,MONITOR,54.79,64.54,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+89,INCIDENT,INC-F4EEC901,MONITOR,54.54,73.19,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 54.
+90,ROUTE,RTE-22651175,MONITOR,54.49,80.73,High-Activity Transport Route,This route exhibits risk indicators (score 54.
+91,ACTOR,ACT-5535B8FF,MONITOR,54.33,73.96,High-Risk Broker Network,This actor exhibits risk indicators (score 54.
+92,INCIDENT,INC-FF21C80A,MONITOR,54.24,65.23,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+93,INCIDENT,INC-62F9706C,MONITOR,53.97,55.66,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+94,INCIDENT,INC-5A1D62F5,MONITOR,53.97,55.66,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+95,INCIDENT,INC-27AF02AC,MONITOR,53.97,55.66,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 54.
+96,INCIDENT,INC-BF3565C3,MONITOR,53.9,59.12,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 53.
+97,INCIDENT,INC-B3F13D55,MONITOR,53.86,75.85,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 53.
+98,INCIDENT,INC-5319B266,MONITOR,53.69,80.91,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 53.
+99,INCIDENT,INC-787713CD,MONITOR,53.42,52.88,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 53.
+100,ACTOR,ACT-157A0D7D,MONITOR,53.31,69.81,High-Risk Broker Network,This actor exhibits risk indicators (score 53.
+101,ACTOR,ACT-F70E04EC,MONITOR,53.3,65.21,High-Risk Broker Network,This actor exhibits risk indicators (score 53.
+102,INCIDENT,INC-C378F9D9,MONITOR,53.1,63.42,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 53.
+103,INCIDENT,INC-0080E45A,MONITOR,52.7,55.26,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 52.
+104,ACTOR,ACT-DUP-0005,MONITOR,52.52,66.79,High-Risk Broker Network,This actor exhibits risk indicators (score 52.
+105,INCIDENT,INC-1B0E87B2,MONITOR,52.5,64.69,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 52.
+106,INCIDENT,INC-A99ECD5A,MONITOR,52.44,63.86,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 52.
+107,INCIDENT,INC-1890EF7F,MONITOR,52.42,70.18,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 52.
+108,INCIDENT,INC-F3E7C448,MONITOR,52.35,65.35,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 52.
+109,ACTOR,ACT-DUP-0006,MONITOR,52.34,67.7,High-Risk Broker Network,This actor exhibits risk indicators (score 52.
+110,INCIDENT,INC-9DA78801,MONITOR,52.12,59.82,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 52.
+111,ROUTE,RTE-4424DBF1,MONITOR,51.99,72.13,High-Activity Transport Route,This route exhibits risk indicators (score 52.
+112,INCIDENT,INC-40171DBA,MONITOR,51.79,75.39,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 51.
+113,INCIDENT,INC-0EBE2272,MONITOR,51.75,71.0,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 51.
+114,INCIDENT,INC-2C70FAE0,MONITOR,51.68,67.82,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 51.
+115,INCIDENT,INC-A82CC362,MONITOR,51.42,68.21,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 51.
+116,INCIDENT,INC-CFB16B32,MONITOR,51.12,70.01,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 51.
+117,INCIDENT,INC-EF577071,MONITOR,51.03,65.26,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 51.
+118,INCIDENT,INC-006A0A35,MONITOR,50.63,60.5,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 50.
+119,INCIDENT,INC-18B3A5B0,MONITOR,50.22,55.79,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 50.
+120,INCIDENT,INC-5EF621B3,MONITOR,50.22,55.79,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 50.
+121,INCIDENT,INC-08138381,MONITOR,50.16,62.97,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 50.
+122,INCIDENT,INC-CA1AE4F9,MONITOR,50.15,59.52,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 50.
+123,ACTOR,ACT-480A6546,MONITOR,50.15,53.47,Coded-Communication Suspect,This actor exhibits risk indicators (score 50.
+124,INCIDENT,INC-49772DB9,MONITOR,50.14,55.6,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 50.
+125,INCIDENT,INC-CFDECC5B,MONITOR,49.86,65.08,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 49.
+126,INCIDENT,INC-D7D8E05F,MONITOR,49.28,73.03,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 49.
+127,INCIDENT,INC-BF83886D,MONITOR,49.2,48.23,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 49.
+128,ACTOR,ACT-EA441661,MONITOR,49.2,74.11,High-Risk Broker Network,This actor exhibits risk indicators (score 49.
+129,ACTOR,ACT-9150A102,MONITOR,49.15,54.24,Coded-Communication Suspect,This actor exhibits risk indicators (score 49.
+130,ACTOR,ACT-DUP-0010,MONITOR,49.04,62.99,High-Risk Broker Network,This actor exhibits risk indicators (score 49.
+131,INCIDENT,INC-D4E686B3,MONITOR,48.89,55.47,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+132,INCIDENT,INC-BD8D0EED,MONITOR,48.79,68.33,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+133,INCIDENT,INC-30714B3F,MONITOR,48.79,68.33,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+134,INCIDENT,INC-92F2DDB3,MONITOR,48.79,68.33,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+135,INCIDENT,INC-1DDB2C11,MONITOR,48.62,69.37,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+136,ACTOR,ACT-DUP-0008,MONITOR,48.53,65.32,High-Risk Broker Network,This actor exhibits risk indicators (score 48.
+137,INCIDENT,INC-E5D4001B,MONITOR,48.17,57.99,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+138,INCIDENT,INC-54ADB586,MONITOR,47.99,59.63,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 48.
+139,ROUTE,RTE-8F0A4EBD,MONITOR,47.82,75.22,High-Activity Transport Route,This route exhibits risk indicators (score 47.
+140,ROUTE,RTE-DD5236CF,MONITOR,47.71,75.64,High-Activity Transport Route,This route exhibits risk indicators (score 47.
+141,INCIDENT,INC-0EC4B271,MONITOR,47.7,57.05,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 47.
+142,INCIDENT,INC-A3DFB62E,MONITOR,47.66,80.18,Coded Commodity Trafficking Event,This incident exhibits risk indicators (score 47.
+143,INCIDENT,INC-FE66FC1A,MONITOR,47.59,70.61,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 47.
+144,INCIDENT,INC-1D3FC12F,MONITOR,47.47,62.24,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 47.
+145,INCIDENT,INC-D7628F86,MONITOR,47.26,70.41,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 47.
+146,ACTOR,ACT-DD3ED62E,MONITOR,47.09,56.54,Coded-Communication Suspect,This actor exhibits risk indicators (score 47.
+147,INCIDENT,INC-F315480D,MONITOR,47.02,54.8,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 47.
+148,INCIDENT,INC-3C7F2D1E,MONITOR,47.02,58.37,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 47.
+149,INCIDENT,INC-5814A5A3,MONITOR,46.95,38.63,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 46.
+150,ACTOR,ACT-A3B509D1,MONITOR,46.78,50.97,High-Risk Broker Network,This actor exhibits risk indicators (score 46.
+151,INCIDENT,INC-60A557B7,MONITOR,46.75,66.73,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 46.
+152,ROUTE,RTE-FDDFEF85,MONITOR,46.73,64.25,High-Activity Transport Route,This route exhibits risk indicators (score 46.
+153,INCIDENT,INC-F97EDDD5,MONITOR,46.48,71.51,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 46.
+154,INCIDENT,INC-78AFF1CC,MONITOR,46.17,39.76,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 46.
+155,INCIDENT,INC-CDA89BFA,MONITOR,46.16,71.6,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 46.
+156,INCIDENT,INC-C23A7161,MONITOR,46.04,61.72,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 46.
+157,INCIDENT,INC-1531B1ED,MONITOR,45.84,62.58,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 45.
+158,ROUTE,RTE-674B55E3,MONITOR,45.77,74.25,High-Activity Transport Route,This route exhibits risk indicators (score 45.
+159,ACTOR,ACT-DUP-0003,MONITOR,45.74,60.44,High-Risk Broker Network,This actor exhibits risk indicators (score 45.
+160,INCIDENT,INC-ECB2E22B,MONITOR,45.55,70.74,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 45.
+161,INCIDENT,INC-6391E51B,MONITOR,45.44,70.52,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 45.
+162,INCIDENT,INC-B7B4001A,MONITOR,45.22,54.58,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 45.
+163,INCIDENT,INC-FE7DD637,MONITOR,45.15,58.4,High-Risk Trafficking Incident,This incident exhibits risk indicators (score 45.
+164,ROUTE,RTE-B4DC47C9,MONITOR,45.02,75.84,High-Activity Transport Route,This route exhibits risk indicators (score 45.
+165,ACTOR,ACT-D404B1E6,MONITOR,45.01,60.59,High-Risk Broker Network,This actor exhibits risk indicators (score 45.

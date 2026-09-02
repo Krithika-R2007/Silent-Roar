@@ -1,0 +1,468 @@
+================================================================================
+  SUPPLY CHAIN GHOST — API INTEGRATION GUIDE
+  Wildlife Intelligence Platform · FastAPI Backend
+================================================================================
+
+This guide is for anyone building a frontend (React, Vue, plain HTML, mobile app,
+Postman, etc.) that wants to connect to the Supply Chain Ghost intelligence API.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 1 · RUNNING THE SERVER
+────────────────────────────────────────────────────────────────────────────────
+
+Requirements
+  · Python 3.10 or higher
+  · pip
+
+Setup (first time only)
+  1. Open a terminal
+  2. Navigate to the backend folder:
+       cd "Silent Roar - Wildlife/backend"
+  3. Install dependencies:
+       pip install -r requirements.txt
+
+Start the server
+       uvicorn main:app --reload --port 8000
+
+The server will be live at:
+  API base:   http://localhost:8000
+  Swagger UI: http://localhost:8000/docs   ← interactive documentation
+  ReDoc:      http://localhost:8000/redoc
+
+On startup you'll see a summary like:
+  ====================================================
+  FASTAPI INTEGRATION COMPLETE
+    Server command:   uvicorn main:app --reload --port 8000
+    API base URL:     http://localhost:8000
+    Swagger URL:      http://localhost:8000/docs
+    Loaded incidents: 340
+    Loaded intelligence: 539
+    Loaded alerts:    84
+  ====================================================
+
+IMPORTANT — folder structure must be preserved:
+  Silent Roar - Wildlife/
+  ├── backend/          ← run the server from here
+  └── simulated_data/   ← the server reads data from here automatically
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 2 · CONNECTING YOUR FRONTEND
+────────────────────────────────────────────────────────────────────────────────
+
+All endpoints start with /api/
+All responses are JSON.
+No authentication required (prototype mode).
+
+JavaScript / React example setup:
+
+  // api.js
+  const BASE = "http://localhost:8000";
+
+  export const api = {
+    get: (path) => fetch(`${BASE}${path}`).then(r => r.json()),
+    post: (path, body) => fetch(`${BASE}${path}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body)
+    }).then(r => r.json())
+  };
+
+  // Usage in any component:
+  const summary = await api.get("/api/dashboard/summary");
+  const alerts  = await api.get("/api/alerts?priority=CRITICAL&limit=10");
+  const incident = await api.get("/api/incidents/INC-1C5B91BF");
+
+CORS is enabled for:
+  http://localhost:3000  (Create React App)
+  http://localhost:5173  (Vite)
+
+If you deploy the frontend elsewhere, add its URL to allow_origins in backend/main.py.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 3 · EVERY ENDPOINT AT A GLANCE
+────────────────────────────────────────────────────────────────────────────────
+
+TARGET TYPES used in URLs: INCIDENT · ACTOR · ROUTE · LOCATION
+
+──── HEALTH ─────────────────────────────────────────────────────────────────
+
+GET /api/health
+  → { "status": "ok", "service": "Supply Chain Ghost", "data_loaded": true }
+  Use this to check the server is running before loading the UI.
+
+──── DASHBOARD ──────────────────────────────────────────────────────────────
+
+GET /api/dashboard/summary
+  → KPI numbers for the main dashboard cards
+  Returns:
+    total_incidents, total_actors, total_routes, total_shipments
+    total_alerts, critical_alerts, high_alerts, watch_alerts
+    active_investigations, high_risk_routes, emerging_hubs
+
+──── ALERTS ─────────────────────────────────────────────────────────────────
+
+GET /api/alerts
+  Query params (all optional):
+    priority      = CRITICAL | HIGH | WATCH | LOW
+    pattern_type  = RECURRING_ACTOR | ROUTE_EMERGING | TEMPORAL_CLUSTER | etc.
+    limit         = number (default 50)
+    offset        = number (default 0, for pagination)
+  Returns: { total, alerts: [ { alert_id, title, pattern_type, entity_type,
+             entity_id, priority, risk_score, confidence, explanation,
+             first_detected, last_detected } ] }
+  Sorted by risk_score descending by default.
+
+──── MAP ─────────────────────────────────────────────────────────────────────
+
+GET /api/map
+  Returns everything needed to render the intelligence map in one call.
+  {
+    points: [
+      { id, type, latitude, longitude, name, risk_score, priority, related_count }
+      type can be: INCIDENT · ALERT · ANIMAL_SIGNAL
+    ],
+    routes: [
+      { route_id, source, transit, destination, risk_score }
+    ]
+  }
+  The frontend can filter points by type client-side without extra requests.
+
+──── INCIDENTS ──────────────────────────────────────────────────────────────
+
+GET /api/incidents
+  Query params (all optional):
+    search    = free text (searches species, location, actor, commodity)
+    species   = Elephant | Pangolin | Rhino | Leopard
+    route_id  = e.g. RTE-F51C2F2E
+    date_from = YYYY-MM-DD
+    date_to   = YYYY-MM-DD
+    limit, offset
+  Returns: { total, incidents: [ { incident_id, incident_date, species,
+             commodity, quantity, source_location, destination, route_id,
+             lead_actor, seizure_status, latitude, longitude } ] }
+
+GET /api/incidents/{incident_id}
+  Example: /api/incidents/INC-1C5B91BF
+  Returns full incident detail:
+    incident         → all fields
+    related_actors   → actor profile data
+    related_shipments → shipment records
+    route_info       → route + intelligence data
+    related_alerts   → pattern alerts for this incident
+    intelligence_score → pre-computed risk score
+    supporting_evidence → list with source_file, source_id, data_type
+    hidden_links     → connected entities
+    timeline         → chronological events
+
+──── ACTORS ─────────────────────────────────────────────────────────────────
+
+GET /api/actors
+  Query params: name, alias, nationality, role, limit, offset
+  Returns: { total, actors: [ { actor_id, full_name, alias, nationality,
+             role, primary_region, threat_score } ] }
+
+GET /api/actors/{actor_id}
+  Example: /api/actors/ACT-5535B8FF
+  Returns:
+    actor            → profile fields
+    risk_score       → intelligence-derived score
+    confidence       → confidence level
+    linked_incidents → list of incidents
+    routes           → route IDs this actor appears on
+    shipments        → shipment records
+    entity_matches   → possible duplicate/alias actors
+    network_statistics → { incident_count, route_count, shipment_count,
+                           entity_match_count }
+
+  Note: language used is "potentially associated", "intelligence signal",
+  never "confirmed criminal" or "confirmed trafficker".
+
+──── ROUTES ─────────────────────────────────────────────────────────────────
+
+GET /api/routes
+  Returns: { total, routes: [ { route_id, source, transit, destination,
+             risk_score, route_status, incident_count, actor_count } ] }
+  route_status values: EMERGING · HIGH_RISK · RECURRING · STABLE
+
+GET /api/routes/{route_id}
+  Example: /api/routes/RTE-F51C2F2E
+  Returns:
+    route            → all route fields
+    risk_score
+    recent_activity  → last 5 incidents
+    related_incidents → up to 10 incidents
+    recurring_actors  → actor IDs
+    hidden_links
+    pattern_alerts
+    activity_summary → { total_incidents, recent_incidents,
+                          unique_actors, unique_species }
+
+──── INTELLIGENCE ────────────────────────────────────────────────────────────
+
+GET /api/intelligence/{target_type}/{target_id}
+  Example: /api/intelligence/ROUTE/RTE-F51C2F2E
+  Example: /api/intelligence/ACTOR/ACT-DUP-0007
+  Returns pre-computed multi-stream intelligence score:
+    risk_score, intelligence_confidence, investigation_priority
+    trade_score, route_score, entity_score, linguistic_score, animal_score
+    cross_evidence_alignment, evidence_stream_count, evidence_streams
+    supporting_incidents, supporting_routes, supporting_actors
+    explanation, uncertainties
+  Scores come from the existing intelligence engines — NOT recalculated here.
+
+GET /api/intelligence/{target_type}/{target_id}/explanation
+  Example: /api/intelligence/ACTOR/ACT-DUP-0007/explanation
+  Powers the "Why is this suspicious?" expandable panel.
+  Returns:
+    risk_score, confidence, why_suspicious (human-readable text)
+    evidence: { trade: [...], route: [...], entity: [...],
+                linguistic: [...], animal: [...] }
+    uncertainties: [ list of caveats ]
+    source_records: [ { source_file, source_id, data_type } ]
+
+──── HIDDEN LINKS ────────────────────────────────────────────────────────────
+
+GET /api/hidden-links/{target_type}/{target_id}
+  Example: /api/hidden-links/ACTOR/ACT-A3B509D1
+  Query params:
+    max_depth = 1 or 2 (default 2, includes second-hop connections)
+    limit     = max results (default 10)
+  Returns ranked list of connected entities:
+    [ { rank, entity_type, entity_id, relationship_type,
+        confidence, risk_score, explanation, supporting_evidence } ]
+  Ranked by: confidence × 0.6 + risk_score × 0.4
+
+──── NETWORK GRAPH ──────────────────────────────────────────────────────────
+
+GET /api/network/{target_type}/{target_id}
+  Example: /api/network/INCIDENT/INC-EA003C6C
+  Query params:
+    max_depth = 1-3 (default 2)
+    max_nodes = 5-200 (default 50, keeps graph manageable)
+  Returns frontend-ready graph data:
+    nodes: [ { id, label, type, risk_score } ]
+    edges: [ { source, target, relationship_type, confidence, risk_score } ]
+  Node types: ACTOR · INCIDENT · ROUTE · LOCATION · SHIPMENT
+  Only returns the local neighbourhood of the selected entity,
+  not the entire 500+ node graph.
+
+──── TIMELINE ───────────────────────────────────────────────────────────────
+
+GET /api/timeline/{target_type}/{target_id}
+  Example: /api/timeline/ACTOR/ACT-DD3ED62E
+  Returns events sorted chronologically:
+    [ { date, event_type, title, description, related_entity, source } ]
+  event_type values: INCIDENT · SHIPMENT · MESSAGE · ROUTE_ACTIVITY ·
+                     ANIMAL_SIGNAL · ALERT
+
+──── INVESTIGATION BRIEF ────────────────────────────────────────────────────
+
+GET /api/investigation/{target_type}/{target_id}
+  Example: /api/investigation/ROUTE/RTE-F51C2F2E
+  Returns a structured investigation brief (no AI API needed, works offline):
+    case_title, threat_level, target_type, target_id
+    risk_score, confidence
+    key_evidence     → bullet-point strings
+    related_incidents, actors, routes
+    linguistic_signals → message-based intelligence notes
+    animal_signals     → protected area anomaly notes
+    explanation        → narrative text
+    uncertainties      → list of caveats
+    investigation_priority
+
+──── MESSAGES ───────────────────────────────────────────────────────────────
+
+POST /api/messages/analyze
+  Body: { "sender": "ACT-xxx", "receiver": "ACT-xxx", "message": "...",
+          "timestamp": "2024-06-01T10:00:00" }
+  Analyzes a message for linguistic intelligence signals.
+  Returns:
+    linguistic_risk   → 0-100 score
+    confidence
+    detected_terms    → known coded phrases found (e.g. "blue bird")
+    possible_location → guessed location from message content
+    possible_route    → matched route ID if location found in route data
+    indicators        → list of logistics/location hints
+    explanation       → human-readable narrative
+  Note: never states a keyword "proves" trafficking. Uses language like
+  "Potential coded terminology detected."
+
+POST /api/messages/link
+  Body: { "message_id": "MSG-xxx", "target_type": "ROUTE",
+          "target_id": "RTE-xxx" }
+  Links a message to an investigation target. Stores as a linguistic signal
+  in the database.
+  Returns: { signal_id, message_id, target_type, target_id,
+             linguistic_risk, status }
+  This is the bridge between a messaging app and the main platform.
+
+GET /api/messages/{message_id}/map-context
+  Example: /api/messages/MSG-4BAFD71C/map-context
+  Returns geographic context for a message (powers "View on Map" button):
+    message_id, referenced_location, linked_route
+    nearby_incidents, nearby_alerts
+    local_risk
+    relevant_entities
+
+──── SEARCH ─────────────────────────────────────────────────────────────────
+
+GET /api/search?q={query}
+  Example: /api/search?q=elephant
+  Example: /api/search?q=Mombasa
+  Example: /api/search?q=ACT-5535B8FF
+  Searches across incidents, actors, routes, and locations.
+  Returns grouped results:
+    {
+      incidents: [ { incident_id, species, source_location, destination } ],
+      actors:    [ { actor_id, full_name, role, nationality } ],
+      routes:    [ { route_id, source, destination, corridor } ],
+      locations: [ "Mombasa", "Mumbai Port", ... ]
+    }
+  Max 20 results per category. Uses pre-lowercased indexes, so fast.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 4 · ERROR RESPONSES
+────────────────────────────────────────────────────────────────────────────────
+
+All errors return consistent JSON (never raw stack traces):
+
+  { "error": true, "message": "Incident not found", "code": "INCIDENT_NOT_FOUND" }
+
+HTTP status codes:
+  200  → success
+  400  → bad request (e.g. invalid target type)
+  404  → entity not found
+  422  → validation error (e.g. missing required field)
+  500  → unexpected server error
+
+Common error codes:
+  INCIDENT_NOT_FOUND
+  ACTOR_NOT_FOUND
+  ROUTE_NOT_FOUND
+  MESSAGE_NOT_FOUND
+  INTEL_NOT_FOUND
+  EXPLANATION_NOT_FOUND
+  NETWORK_NOT_FOUND
+  TARGET_NOT_FOUND
+  INVALID_TARGET_TYPE
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 5 · WHAT THE DATA LOOKS LIKE
+────────────────────────────────────────────────────────────────────────────────
+
+The dataset covers simulated wildlife trafficking intelligence:
+
+  340 incidents    — species: Elephant, Pangolin, Rhino, Leopard
+  130 actors       — roles: Broker, Collector, Transporter, Exporter, Buyer
+   60 routes       — corridors from Indian ports to East/South African ports
+  572 shipments    — linked to incidents, various transport types
+  400 messages     — some containing coded slang terms
+   84 alerts       — CRITICAL / HIGH / WATCH priority patterns
+  539 intelligence targets — pre-scored by the existing AI engines
+
+Evidence provenance: every evidence item includes source_file (e.g. "incidents.csv"),
+source_id, and data_type so the frontend can show where each signal came from.
+
+Language policy: all API responses use intelligence-appropriate wording:
+  "potentially associated with"   NOT "confirmed criminal"
+  "intelligence signal"           NOT "proven trafficker"
+  "possible network relationship" NOT "definitely connected"
+  "investigation priority"        NOT "guilty"
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 6 · DEPLOYMENT OPTIONS
+────────────────────────────────────────────────────────────────────────────────
+
+Local development (both frontend and backend on your machine):
+  Terminal 1: uvicorn main:app --reload --port 8000
+  Terminal 2: npm run dev  (your React app on port 5173)
+  Frontend calls: http://localhost:8000
+
+Share on same Wi-Fi network:
+  uvicorn main:app --host 0.0.0.0 --port 8000
+  Others access via your local IP, e.g. http://192.168.1.42:8000
+  (find your IP with: ipconfig on Windows)
+
+Deploy publicly (Railway — easiest):
+  1. Push the whole "Silent Roar - Wildlife" folder to GitHub
+  2. Create project at railway.app, connect the repo
+  3. Set start command: uvicorn main:app --host 0.0.0.0 --port $PORT
+  4. Railway gives you a public URL
+
+Deploy publicly (Render):
+  1. Push to GitHub
+  2. New Web Service at render.com
+  3. Build command: pip install -r requirements.txt
+  4. Start command: uvicorn main:app --host 0.0.0.0 --port $PORT
+
+What to include in the deployment:
+  ✓ backend/ folder (all files)
+  ✓ simulated_data/ folder (all 13 CSV/JSON files)
+  ✗ __pycache__/ (excluded by .gitignore)
+  ✗ *.db files (excluded by .gitignore, regenerated on startup)
+  ✗ cross_evidence_engine.py etc. (optional, not needed to run the API)
+
+When deployed, update the CORS origins in backend/main.py:
+  allow_origins=[
+      "http://localhost:3000",
+      "http://localhost:5173",
+      "https://your-frontend.vercel.app",   ← add your deployed frontend URL
+  ]
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 7 · QUICK REFERENCE — COMMON FRONTEND PATTERNS
+────────────────────────────────────────────────────────────────────────────────
+
+Dashboard KPI cards on page load:
+  GET /api/dashboard/summary
+
+Alert feed with live filtering:
+  GET /api/alerts?priority=CRITICAL&limit=20
+
+Map page — load all points and route lines:
+  GET /api/map
+
+Incident list with search:
+  GET /api/incidents?search=pangolin&limit=50
+
+Click an incident to open detail panel:
+  GET /api/incidents/{id}
+
+Click an actor to open profile:
+  GET /api/actors/{id}
+
+"Why is this suspicious?" button:
+  GET /api/intelligence/{type}/{id}/explanation
+
+Find hidden connections:
+  GET /api/hidden-links/{type}/{id}?max_depth=2
+
+Render a network graph:
+  GET /api/network/{type}/{id}?max_nodes=50
+
+Show timeline for an entity:
+  GET /api/timeline/{type}/{id}
+
+Generate investigation brief:
+  GET /api/investigation/{type}/{id}
+
+Analyze a message from the messenger app:
+  POST /api/messages/analyze
+  Body: { "sender": "...", "receiver": "...", "message": "..." }
+
+Link message to an investigation:
+  POST /api/messages/link
+  Body: { "message_id": "...", "target_type": "ROUTE", "target_id": "..." }
+
+"View on Map" from the messenger app:
+  GET /api/messages/{message_id}/map-context
+
+Global search bar:
+  GET /api/search?q={user_input}
+
+Interactive API docs (test endpoints in browser):
+  http://localhost:8000/docs
+
+================================================================================
+  END OF GUIDE
+================================================================================
